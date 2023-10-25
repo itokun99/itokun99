@@ -1,0 +1,23 @@
+{
+  "app":{
+    "author":"indrawan@aleph-labs.com",
+    "defaultImage":"https://1.bp.blogspot.com/-QYP55lDT3y8/XdEL28HRsfI/AAAAAAAACqw/My15c96Og8022Jc6HVfPFf1gBku8PmA_wCLcBGAsYHQ/s1600/no-image-codepelajar.png",
+    "logo":"https://avatars.githubusercontent.com/u/45938169?v=4"
+  },
+  "blogger":{
+    "blogId":"5624631557745671504",
+    "blogUrl":"https://nextcodepelajar.blogspot.com"
+  },
+  "google":{
+    "apiKey":"AIzaSyB2MpzH-Gq6fnWuUnoI2PH2sPMTkGIQ9b0",
+    "cse":{
+      "url":"https://cse.google.com/cse.js?cx=005178091281942032751:rimwwhz9ofx"
+    }
+  },
+  "disqus":{
+    "username":"codepelajar"
+  },
+  "addThis":{
+    "id":"5dd79989c6588238"
+  }
+}
