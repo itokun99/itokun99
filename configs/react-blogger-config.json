@@ -19,5 +19,29 @@
   },
   "addThis":{
     "id":"5dd79989c6588238"
+  },
+  "menu": {
+    "header": [
+      {
+        "id": 1,
+        "title": "Latest",
+        "url": "/latest"
+      },
+      {
+        "id": 2,
+        "title": "Projects",
+        "url": "/projects"
+      },
+      {
+        "id": 3,
+        "title": "Services",
+        "url": "/services"
+      },
+      {
+        "id": 4,
+        "title": "Contact",
+        "url": "/contact"
+      }
+    ]
   }
 }
