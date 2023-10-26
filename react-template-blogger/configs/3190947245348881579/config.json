@@ -43,5 +43,73 @@
         "url": "/contact"
       }
     ]
-  }
+  },
+  "author": [
+    {
+      "id": "15951301036007458105",
+      "name": "Indrawan Lisanto",
+      "email": "indrawan@aleph-labs.com",
+      "title": "Front-End Developer",
+      "username": "itokun99",
+      "nickname": "ito",
+      "profilePic": "",
+      "coverPic": "",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/itokun99",
+          "username": "itokun99"
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/mr.ito__",
+          "username": "mr.ito__"
+        },
+        {
+          "id": 3,
+          "name": "linkedin",
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/indrawan-lisanto/",
+          "username": "Indrawan Lisanto"
+        }
+      ]
+    },
+    {
+      "id": "08567324068406956261",
+      "name": "Muhammmad Irva",
+      "email": "justirva@gmail.comm",
+      "title": "Front-End Developer",
+      "username": "justirva09",
+      "nickname": "irva",
+      "profilePic": "https://avatars.githubusercontent.com/u/48151470?v=4",
+      "coverPic": "",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name": "github",
+          "title": "Github",
+          "url": "https://github.com/justirva09",
+          "username": "justirva09"
+        },
+        {
+          "id": 2,
+          "name": "instagram",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/justirva99",
+          "username": "justirva99"
+        },
+        {
+          "id": 3,
+          "name": "linkedin",
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/justirva",
+          "username": "Muhammad Irva"
+        }
+      ]
+    }
+  ]
 }
