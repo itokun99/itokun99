@@ -111,5 +111,35 @@
         }
       ]
     }
-  ]
+  ],
+  "sectionConfig": {
+    "homepage": {
+      "top": [
+        {
+          "id": 1,
+          "title": "New / Updated from Creator",
+          "type": "featured-post",
+          "show": true
+        },
+        {
+          "id": 2,
+          "title": "Our Templates",
+          "type": "labeled-post",
+          "label": "Template",
+          "show": true
+        },
+        {
+          "id": 3,
+          "title": "Programming Tips",
+          "type": "labeled-post",
+          "label": "Tutorial",
+          "show": true
+        }
+      ],
+      "main": {
+        "title": "Recently Published",
+        "show": true
+      }
+    }
+  }
 }
