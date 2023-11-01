@@ -1,5 +1,3 @@
-[![An image of @itokun99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itokun99)](https://holopin.io/@itokun99)
-
 <h1 align="center">Hi 👋, I'm Indrawan Lisanto</h1>
 <h3 align="center">A Specialist React and Go from Indonesia</h3>
 
