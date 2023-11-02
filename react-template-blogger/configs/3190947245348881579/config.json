@@ -139,7 +139,56 @@
       "main": {
         "title": "Recently Published",
         "show": true
-      }
+      },
+      "sidebar": [
+        {
+          "id": 1,
+          "title": "Ads Banner",
+          "type": "ads-banner",
+          "show": true,
+          "data": [
+            {
+              "id": 1,
+              "type": "single",
+              "image": "",
+              "url": "",
+              "content": ""
+            },
+            {
+              "id": 2,
+              "type": "multiple",
+              "data": [
+                {
+                  "id": 1,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 2,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 3,
+                  "image": "",
+                  "url": ""
+                },
+                {
+                  "id": 4,
+                  "image": "",
+                  "url": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Popular Tags",
+          "type": "tag-list",
+          "show": true
+        }
+      ]
     }
   }
 }
