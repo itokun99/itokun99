@@ -125,14 +125,18 @@
           "id": 2,
           "title": "Our Templates",
           "type": "labeled-post",
-          "label": "Template",
+          "data": {
+            "label": "Template"
+          },
           "show": true
         },
         {
           "id": 3,
           "title": "Programming Tips",
           "type": "labeled-post",
-          "label": "Tutorial",
+          "data": {
+            "label": "Tutorial"
+          },
           "show": true
         }
       ],
@@ -140,7 +144,7 @@
         "title": "Recently Published",
         "show": true
       },
-      "sidebar": [
+      "side": [
         {
           "id": 1,
           "title": "Ads Banner",
