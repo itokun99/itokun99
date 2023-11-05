@@ -140,10 +140,14 @@
           "show": true
         }
       ],
-      "main": {
-        "title": "Recently Published",
-        "show": true
-      },
+      "main": [
+        {
+          "id": 1,
+          "title": "Recently Published",
+          "type": "latest-post",
+          "show": true
+        }
+      ],
       "side": [
         {
           "id": 1,
@@ -189,7 +193,7 @@
         {
           "id": 3,
           "title": "Popular Tags",
-          "type": "tag-list",
+          "type": "label-list",
           "show": true
         }
       ]
