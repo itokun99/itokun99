@@ -197,6 +197,16 @@
           "show": true
         }
       ]
+    },
+    "postDetail": {
+      "side": [
+        {
+          "id": 3,
+          "title": "Popular Tags",
+          "type": "label-list",
+          "show": true
+        }
+      ]
     }
   }
 }
