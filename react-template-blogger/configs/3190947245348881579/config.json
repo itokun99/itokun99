@@ -6,7 +6,7 @@
   },
   "blogger":{
     "blogId":"3190947245348881579",
-    "blogUrl":"https://codepelajar.blogspot.com/"
+    "blogUrl":"https://codepelajar.blogspot.com"
   },
   "google":{
     "apiKey":"AIzaSyB2MpzH-Gq6fnWuUnoI2PH2sPMTkGIQ9b0",
@@ -49,10 +49,10 @@
       "id": "15951301036007458105",
       "name": "Indrawan Lisanto",
       "email": "indrawan@aleph-labs.com",
-      "title": "Tukang website",
+      "title": "Front-End Developer",
       "username": "itokun99",
       "nickname": "ito",
-      "profilePic": "https://avatars.githubusercontent.com/u/28986134?v=4",
+      "profilePic": "https://avatars.githubusercontent.com/u/45938169?v=4",
       "coverPic": "",
       "socialLinks": [
         {
@@ -117,25 +117,25 @@
       "top": [
         {
           "id": 1,
-          "title": "New Updates",
+          "title": "New / Updated from Creator",
           "type": "featured-post",
           "show": true
         },
         {
           "id": 2,
-          "title": "Watching Anime",
+          "title": "Our Templates",
           "type": "labeled-post",
           "data": {
-            "label": "Anime"
+            "label": "Template"
           },
           "show": true
         },
         {
           "id": 3,
-          "title": "Enjoyful with Hot Manga",
+          "title": "Programming Tips",
           "type": "labeled-post",
           "data": {
-            "label": "Manga"
+            "label": "Tutorial"
           },
           "show": true
         }
