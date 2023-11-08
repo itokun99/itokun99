@@ -5,8 +5,8 @@
     "logo":"https://avatars.githubusercontent.com/u/45938169?v=4"
   },
   "blogger":{
-    "blogId":"3190947245348881579",
-    "blogUrl":"https://codepelajar.blogspot.com"
+    "blogId":"7496508518212181894",
+    "blogUrl":"https://vinkanime.blogspot.com/"
   },
   "google":{
     "apiKey":"AIzaSyB2MpzH-Gq6fnWuUnoI2PH2sPMTkGIQ9b0",
@@ -117,25 +117,25 @@
       "top": [
         {
           "id": 1,
-          "title": "New / Updated from Creator",
+          "title": "New Updates",
           "type": "featured-post",
           "show": true
         },
         {
           "id": 2,
-          "title": "Our Templates",
+          "title": "Watching Anime",
           "type": "labeled-post",
           "data": {
-            "label": "Template"
+            "label": "Anime"
           },
           "show": true
         },
         {
           "id": 3,
-          "title": "Programming Tips",
+          "title": "Enjoyful with Hot Manga",
           "type": "labeled-post",
           "data": {
-            "label": "Tutorial"
+            "label": "Manga"
           },
           "show": true
         }
