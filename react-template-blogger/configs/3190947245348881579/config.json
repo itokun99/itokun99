@@ -212,6 +212,20 @@
           "type": "label-list",
           "show": true
         }
+      ],
+      "main": [
+        {
+          "id": 1,
+          "title": "Blogger Post Detail",
+          "type": "blogger-post-detail",
+          "show": true
+        },
+        {
+          "id": 1,
+          "title": "Blogger Comment",
+          "type": "blogger-comment",
+          "show": true
+        }
       ]
     }
   }
