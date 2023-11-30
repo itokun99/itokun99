@@ -1,24 +1,32 @@
 {
-  "app":{
-    "author":"indrawan@aleph-labs.com",
-    "defaultImage":"https://1.bp.blogspot.com/-QYP55lDT3y8/XdEL28HRsfI/AAAAAAAACqw/My15c96Og8022Jc6HVfPFf1gBku8PmA_wCLcBGAsYHQ/s1600/no-image-codepelajar.png",
-    "logo":"https://avatars.githubusercontent.com/u/45938169?v=4"
+  "app": {
+    "author": "indrawan@aleph-labs.com",
+    "defaultImage": "https://1.bp.blogspot.com/-QYP55lDT3y8/XdEL28HRsfI/AAAAAAAACqw/My15c96Og8022Jc6HVfPFf1gBku8PmA_wCLcBGAsYHQ/s1600/no-image-codepelajar.png",
+    "logo": "https://avatars.githubusercontent.com/u/45938169?v=4"
   },
-  "blogger":{
-    "blogId":"7496508518212181894",
-    "blogUrl":"https://vinkanime.blogspot.com"
+  "blogger": {
+    "blogId": "7496508518212181894",
+    "blogUrl": "https://vinkanime.blogspot.com"
   },
-  "google":{
-    "apiKey":"AIzaSyB2MpzH-Gq6fnWuUnoI2PH2sPMTkGIQ9b0",
-    "cse":{
-      "url":"https://cse.google.com/cse.js?cx=005178091281942032751:rimwwhz9ofx"
+  "google": {
+    "apiKey": "AIzaSyB2MpzH-Gq6fnWuUnoI2PH2sPMTkGIQ9b0",
+    "cse": {
+      "url": "https://cse.google.com/cse.js?cx=005178091281942032751:rimwwhz9ofx"
+    },
+    "firebase": {
+      "apiKey": "AIzaSyCWmOlYDKxGYzg0R6Ac2nU4veTFIo8ObFw",
+      "authDomain": "react-experiment-itodev.firebaseapp.com",
+      "projectId": "react-experiment-itodev",
+      "storageBucket": "react-experiment-itodev.appspot.com",
+      "messagingSenderId": "621034902241",
+      "appId": "1:621034902241:web:b9dfe3eb87d447880f9da0"
     }
   },
-  "disqus":{
-    "username":"codepelajar"
+  "disqus": {
+    "username": "codepelajar"
   },
-  "addThis":{
-    "id":"5dd79989c6588238"
+  "addThis": {
+    "id": "5dd79989c6588238"
   },
   "menu": {
     "header": [
