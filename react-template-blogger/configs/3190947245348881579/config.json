@@ -230,8 +230,8 @@
         },
         {
           "id": 2,
-          "title": "Blogger Comment",
-          "type": "blogger-comment",
+          "title": "Comment",
+          "type": "disqus-comment",
           "show": true
         }
       ]
