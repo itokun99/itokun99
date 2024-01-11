@@ -1,13 +1,46 @@
-<h1 align="center">Hi 👋, I'm Indrawan Lisanto</h1>
-<h3 align="center">React and Go Specialist from Indonesia</h3>
+### Hello there 👋
 
-- 🔭 I’m currently working on [Aleph-Labs Indonesia](https://aleph-labs.com)
+#### Full-Stack Developer and Coding Enthusiast since 2018
+
+Here is [My CV](https://www.canva.com/design/DADbA-z5gCY/hHx3xyc6GZcAwKvXo8vG8w/view)
+
+Currently, I'm a:
+- 💅 Front-End Developer at [Aleph-Labs Indonesia](https://aleph-labs.com/studios/indonesia)
+- 👥 Co-Owner and Co-Founder [Code Pelajar](https://codepelajar.blogspot.com)
+- 👥 Co-Founder [Kabayan Coding Telegram Community](https://t.me/kabayan_coding)
+- 🙋🏻 Owner and Founder [Kerja Koding](https://t.me/kerjakoding)
+- 🙋🏻 Owner and Content Creator at [itodev.id](https://www.youtube.com/@itodev)
 <br />
+
+Mostly, I'm working with:
+- 💅 Front-End: `react`, `tailwindcss`, `scss`, `nextjs`, `remix` & `typescript`
+- 👨🏻‍💻 Back-End: `express`, `go` & `laravel`
+- 📱 Mobile App: `react-native`
+- 🎨 Design: `figma`, `gimp` & `canva`
+- 💼 Work Station: `notion`, `trello`, `jira` & `excel`
+- 💬 Communication: `slack`, `discord`, `whatsapp` & `telegram`
 <br />
+
+Follow me on:
+- [itodev Youtube Channel](https://www.youtube.com/@itodev)
+- [itodev.id Tiktok](https://www.tiktok.com/@itodev.id)
+- [itodev.id Instagram](https://www.instagram.com/itodev.id)
+- [Indrawan Lisanto LinkedIn](https://www.linkedin.com/in/indrawan-lisanto)
+- [itodev_id Twitter](https://twitter.com/itodev_id)
+<br />
+
+Text me on:
+- [itodev@proton.me](mailto:itodev@proton.me)
+- [Chat on Whatsapp](https://wa.me/6285158692077)
+- [Chat on Telegram](https://t.me/itodev)
+
+Here my stats:
 <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=itokun99&show_icons=true&locale=en&theme=holi"
     alt="itokun99" /></p>
-<h3 align="left">Support:</h3>
+<br />
+
+Support me by:
 <p>
   <a href="https://www.buymeacoffee.com/itokun99">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
@@ -18,8 +51,3 @@
   </a>
 </p>
 <br />
-<br />
-<h4>Other:</h4>
-<p><p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=itokun99&label=Visitor%20&color=0e75b6&style=for-the-badge"
-    alt="itokun99" /> </p></p>
