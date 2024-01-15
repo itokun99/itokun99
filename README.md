@@ -4,7 +4,7 @@
 
 #### Full-Stack Developer and Coding Enthusiast since 2018
 
-Here is [My CV](https://www.canva.com/design/DADbA-z5gCY/hHx3xyc6GZcAwKvXo8vG8w/view)
+Here is [My CV](https://read.cv/itodev)
 
 Currently, I'm a:
 - 💅 Front-End Developer at [Aleph-Labs Indonesia](https://aleph-labs.com/studios/indonesia)
