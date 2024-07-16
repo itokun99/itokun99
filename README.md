@@ -24,11 +24,11 @@ Mostly, I'm working with:
 <br />
 
 Follow me on:
-- [itodev Youtube Channel](https://www.youtube.com/@itodev)
-- [itodev.id Tiktok](https://www.tiktok.com/@itodev.id)
-- [itodev.id Instagram](https://www.instagram.com/itodev.id)
+- [@byitodev Youtube Channel](https://www.youtube.com/@byitodev)
+- [@byito.dev Tiktok](https://www.tiktok.com/@byito.dev)
+- [@byito.dev Instagram](https://www.instagram.com/byito.dev)
 - [Indrawan Lisanto LinkedIn](https://www.linkedin.com/in/indrawan-lisanto)
-- [itodev_id Twitter](https://twitter.com/itodev_id)
+- [@byito_dev_id Twitter](https://twitter.com/byito_dev)
 <br />
 
 Text me on:
