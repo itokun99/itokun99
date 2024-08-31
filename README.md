@@ -1,2 +1,2 @@
 ## Welcome to my github
-Please Visit [My Space](https://read.cv/itodev) for detail
+Please Visit [My Space](https://bento.me/itodev) for detail
