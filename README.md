@@ -1,2 +1,3 @@
 ## Welcome to my github
-Please Visit [My Space](https://bento.me/itodev) for detail
+I just store daily coding stuff here. 
+For Business, Please Visit [My Space](https://bento.me/itodev) for detail
