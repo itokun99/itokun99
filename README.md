@@ -1,2 +1,2 @@
 ## Welcome to my github
-I share my daily coding activities here. For business inquiries, please visit [My Space](https://bento.me/indrawandev)  for more details.
+I share my daily coding activities here. For business inquiries, please visit [My Space](https://indrawan.dev)  for more details.
