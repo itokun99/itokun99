@@ -34,17 +34,30 @@ I spend most of my time exploring how orchestration, workflow design, and contex
 
 ## Open Source Projects
 
-### omo-switch
+### [omotg](https://github.com/itokun99/omotg)
 
-Instantly switch LLM configurations inside Oh My OpenAgent (OMO) without manually editing JSON files.
+💬 Interact with OpenCode directly from Telegram. A thread-safe, zero-dependency Go bridge with MCP tool integration for personal "vibecoding".
 
-Making model experimentation faster and frictionless.
+### [omo-switcher](https://github.com/itokun99/omo-switcher)
 
-### Superspec AI Workflow
+Supported multiple config for Opencode + Oh My Openagent. Makes model experimentation faster and frictionless.
 
-An opinionated AI-native workflow for software development built around specifications, orchestration, and execution discipline.
+### [superspec-ai-workflow](https://github.com/itokun99/superspec-ai-workflow)
 
-Designed for developers who want repeatable results instead of prompt roulette.
+🚀 AI-driven development workflow blueprint for multi-platform monorepos. Powered by OpenCode, OMO, OpenSpec, and Superpowers.
+An opinionated approach built around specifications, orchestration, and execution discipline — designed for developers who want repeatable results instead of prompt roulette.
+
+### [mono-robby](https://github.com/itokun99/mono-robby)
+
+Oh my fish theme Robbyrussell but monochrome.
+
+### [secure-storage](https://github.com/itokun99/secure-storage)
+
+React secure-storage — encrypted client-side storage for React apps.
+
+### [codepelajar-react](https://github.com/itokun99/codepelajar-react)
+
+A Blogger Template built with React JS. Open source.
 
 ---
 
