@@ -1,101 +1,251 @@
 # Indrawan Lisanto
 
-**AI-Native Software Architect | Senior Enterprise Engineer**
+## AI-Native Full-Stack Engineer
 
-Remote / Jakarta, Indonesia | me@indrawan.dev | +62 8515-869-2077
-LinkedIn: linkedin.com/in/indrawan-lisanto | GitHub: github.com/itokun99
+📍 Jakarta, Indonesia (Remote)
+📧 [me@indrawan.dev](mailto:me@indrawan.dev)
+📱 +62 8515-869-2077
 
----
-
-## Professional Summary
-
-Senior Software Architect with 6+ years of experience engineering high-traffic, enterprise-grade applications for industry leaders (Astra Honda, PermataBank, BRI).
-
-Operating exclusively within a **100% Monochrome Terminal (TUI) environment**, I leverage Agentic AI workflows and strategic LLM routing to execute complex systems with zero cognitive load. I specialize in designing scalable modular architectures (Microservices, React Native, Next.js) while strictly optimizing for clean code, token economics, and hyper-efficient development cycles.
-
-I do not just write code—I orchestrate systems to drive business growth and technical excellence.
+GitHub: https://github.com/itokun99
+Portfolio: https://indrawan.dev
+LinkedIn: https://linkedin.com/in/indrawan-lisanto
 
 ---
 
-## Core Expertise & Arsenal
+# Professional Summary
 
-### AI Orchestration & TUI
-- Agentic Workflows (Opencode, Oh My Openagent)
-- Strategic LLM Routing & Token Arbitrage (Copilot, Claude, Qwen, Minimax)
-- Terminal Multiplexing (Ghostty, Neovim, Tmux)
-- Lazygit
+AI-Native Full-Stack Engineer with 6+ years of experience building scalable web, mobile, and backend applications across banking, fintech, telecommunications, automotive, education, and enterprise software.
+
+Experienced in delivering production systems using React, React Native, Next.js, Go, Node.js, PostgreSQL, and TypeScript while collaborating with cross-functional engineering teams on enterprise-scale products. Passionate about clean architecture, developer experience, and AI-assisted software engineering workflows that improve engineering productivity without sacrificing software quality.
+
+---
+
+# Technical Skills
 
 ### Languages
-TypeScript, JavaScript, Go, Python, SQL, Bash
 
-### Frontend & Mobile
-React Native (Bare/Expo), React.js, Next.js, TanStack, TailwindCSS, GraphQL, Zustand, Redux, Shadcn UI
+TypeScript • JavaScript • Go • Python • SQL • Bash
 
-### Backend & Infrastructure
-Node.js, PostgreSQL, MySQL, REST API, Docker, CI/CD (GitHub Actions, Dokploy), Linux (Ubuntu, Arch)
+### Frontend
 
----
+React • Next.js • React Native (Bare & Expo) • Redux • Zustand • TanStack Query • Tailwind CSS • GraphQL • Shadcn UI
 
-## Work Experience
+### Backend
 
-### Aleph-Labs | Jakarta, Indonesia
-**Senior Software Engineer** | Jun 2019 - Present
+Go • Node.js • Python • REST API • Microservices • PostgreSQL • MySQL
 
-Engineer scalable frontend and mobile architectures for top-tier enterprise clients, driving performance optimizations and codebase standardization.
+### DevOps & Infrastructure
 
-- **Astra Honda**: Architected and standardized the codebase across 26 cross-platform mobile applications. Optimized core e-commerce features, including booking and loyalty systems, navigating complex legacy logic to ensure high availability.
-- **PermataBank**: Engineered the Permata Enterprise Business web application UI. Enforced strict performance optimizations and built highly reusable, modular component libraries to accelerate team delivery.
-- **Telkomsel (by.U App)**: Built core release features (Payments, Live Chat) for the initial launch and established foundational front-end coding standards for the broader engineering team.
+Docker • GitHub Actions • Linux (Ubuntu & Arch Linux) • Dokploy
 
-### Independent Software Architect (Consulting)
-**Full-Stack & Mobile Architect** | Jun 2021 - 2024
+### AI Engineering
 
-Provided technical leadership, architecture design, and migration execution for enterprise and startup clients.
+AI-Assisted Software Development • Agentic Development • OpenCode • Oh My OpenAgent (OMO) • GitHub Copilot • Claude • Gemini • Qwen • Prompt Engineering • LLM Workflow Design
 
-- **Bank Rakyat Indonesia (BRIAPI)**: Developed core banking Open API microservices (Salary Crediting, OTP SMS) utilizing Go and Python, ensuring enterprise-grade security and reliability.
-- **PT Karya Inovasi Digital**: Architected cross-platform educational systems (XLibrary, XPresensi), integrating complex APIs and AI-driven voice features.
-- **Enterprise Migrations**: Modernized legacy platforms, including migrating the Sani V2 HRIS to a modern React/Shadcn UI stack and consolidating TUV Nord's disparate legacy applications into a single unified front-end architecture.
+### Developer Tools
+
+Git • Neovim • Tmux • Ghostty • Fish Shell • LazyGit
 
 ---
 
-## Additional Experience
+# Professional Experience
 
-- **Web Developer** – The Entrepreneurs Society | Aug 2021 - Mar 2023
-- **Front-End Developer** – PT Mitra Digital Sukses (Youtap) | Oct 2021 - Apr 2022
-- **Co-Founder & CTO** – Kabayan Coding | Aug 2019 - Jun 2022
+## Aleph-Labs
 
----
+**Front-End Developer**
 
-## Current Architecture & Open Source Contributions
+**June 2019 – Present**
 
-### Enterprise Management Systems
-Concurrently architecting an end-to-end Islamic Boarding School Management System and a Merchandising Tracker using AI-assisted TUI workflows for rapid iteration.
+Develop enterprise web and mobile applications for leading organizations across banking, automotive, and telecommunications industries while collaborating with cross-functional engineering teams.
 
-### Guide to AI (Curator)
-Maintaining a curated open-source repository teaching developers how to integrate AI tools efficiently and master token economics.
+### Selected Contributions
 
-### Open Source Tooling
+* Standardized frontend architecture across **26 React Native mobile applications** for Astra Honda Motor, improving maintainability and engineering consistency.
+* Developed booking, loyalty, commerce, and customer experience features for production mobile applications.
+* Built enterprise frontend applications for PermataBank using reusable component architecture and performance-focused development practices.
+* Delivered payment and customer support modules for the initial public release of Telkomsel's by.U application.
+* Collaborated with backend engineers to integrate REST APIs and deliver secure, production-ready applications.
+* Contributed to frontend architecture discussions, code reviews, engineering standards, and reusable component libraries.
 
-- **Vokadash**: Built NPM packages to eliminate developer bottlenecks in dashboard UI generation
-- **HTTP**: Custom NPM wrapper for simplified HTTP requests
-- **mono-robby**: Minimalist Fish shell theme designed for zero-distraction TUI coding
-- **Secure Storage (Fork)**: Patched React Native secure storage library to resolve specific compatibility logic for custom use cases
+**Tech Stack**
 
----
-
-## Education
-
-### Universitas Terbuka (Indonesia Open University)
-Bachelor of Information Systems | 2024 - 2028 (Expected)
-
-### SMKN 1 Rancaekek (Vocational High School)
-Major in Computer and Network Engineering | 2014 - 2017
+React • React Native • Next.js • TypeScript • Redux • GraphQL • REST API
 
 ---
 
-## Languages
+## Independent Consultant
 
-| Language | Proficiency |
-|----------|-------------|
-| Indonesian | Native |
-| English | Professional Working / Conversational |
+**Full-Stack Engineer**
+
+**June 2021 – Present**
+
+Provide full-stack engineering and technical consulting for enterprise clients and startups, delivering scalable applications from architecture to production deployment.
+
+### Selected Projects
+
+#### Banking Platform (Bank Rakyat Indonesia)
+
+* Developed secure Open API microservices supporting Salary Crediting and OTP services.
+* Built backend services using Go and Python following enterprise banking standards.
+* Integrated internal banking systems with secure REST APIs.
+
+**Stack:** Go • Python • PostgreSQL • REST API
+
+---
+
+#### Enterprise Education Platform
+
+* Designed and developed education management platforms including XLibrary and XPresensi.
+* Integrated AI-powered voice features and third-party services.
+* Built scalable frontend and backend architecture supporting future product expansion.
+
+**Stack:** React • React Native • Node.js • PostgreSQL
+
+---
+
+#### Enterprise Modernization
+
+* Modernized legacy HRIS applications using React and Shadcn UI.
+* Migrated legacy enterprise systems into maintainable frontend architectures.
+* Developed reusable component libraries to improve engineering productivity.
+
+**Stack:** React • Next.js • TypeScript • Shadcn UI
+
+---
+
+#### Custom Business Applications
+
+Designed and developed multiple end-to-end business applications using a modern full-stack architecture.
+
+Examples include:
+
+* School Management System
+* Merchandising Tracker
+* Enterprise Dashboard
+* Internal Business Management Systems
+
+**Typical Stack**
+
+React Native • Next.js • Go • PostgreSQL • Docker • REST API
+
+Responsible for frontend, backend, database design, API development, deployment, and system architecture.
+
+---
+
+# Open Source Projects
+
+## OMO Telegram
+
+Creator of an open-source bridge connecting Telegram with Oh My OpenAgent (OMO), enabling developers to interact with AI agents directly through Telegram and support AI-assisted engineering workflows.
+
+https://omotg.indrawan.dev
+
+---
+
+## Guide to AI
+
+Maintainer of an open-source knowledge base helping developers adopt AI-assisted software engineering workflows efficiently.
+
+---
+
+## Vokadash
+
+Creator of reusable frontend tooling and NPM packages for dashboard development.
+
+---
+
+## HTTP
+
+Creator of a lightweight HTTP abstraction library for JavaScript applications.
+
+---
+
+## Mono Robby
+
+Creator of a minimalist Fish Shell theme optimized for terminal-first development.
+
+---
+
+## React Native Secure Storage
+
+Contributor improving compatibility for React Native applications.
+
+---
+
+# Selected Projects
+
+## School Management System
+
+Designed and developed a comprehensive education management platform covering:
+
+* Student Management
+* Attendance
+* Finance
+* Academic Reports
+* Parent Communication
+* Teacher Portal
+
+**Stack**
+
+React Native • Next.js • Go • PostgreSQL • Docker
+
+---
+
+## Merchandising Tracker
+
+Designed and developed an enterprise merchandising platform supporting field operations, reporting, workflow automation, and operational monitoring.
+
+**Stack**
+
+React Native • Next.js • Go • PostgreSQL
+
+---
+
+# Additional Experience
+
+**Web Developer**
+
+The Entrepreneurs Society
+
+Aug 2021 – Mar 2023
+
+---
+
+**Front-End Developer**
+
+PT Mitra Digital Sukses (Youtap)
+
+Oct 2021 – Apr 2022
+
+---
+
+**Co-Founder & CTO**
+
+Kabayan Coding
+
+Aug 2019 – Jun 2022
+
+---
+
+# Education
+
+## Universitas Terbuka
+
+Bachelor of Information Systems
+
+2024 – Present
+
+---
+
+## SMKN 1 Rancaekek
+
+Computer & Network Engineering
+
+2014 – 2017
+
+---
+
+# Languages
+
+* Indonesian — Native
+* English — Professional Working Proficiency
