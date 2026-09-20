@@ -1,6 +1,6 @@
 # Indrawan Lisanto
 
-## AI-Native Full-Stack Engineer
+## AI-Native Full-Stack Engineer · Mobile-first
 
 📍 Jakarta, Indonesia (Remote)
 📧 [me@indrawan.dev](mailto:me@indrawan.dev)

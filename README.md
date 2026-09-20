@@ -1,6 +1,6 @@
 # Hi, I'm Indrawan 👋
 
-> AI-Native Enterprise Architect building software through orchestration, automation, and terminal-first workflows.
+> AI-Native Full-Stack Engineer, mobile-first - building software through orchestration, automation, and terminal-first workflows.
 
 I believe the future of software engineering is not about writing more code.
 
@@ -143,7 +143,7 @@ Ship more.
 
 * [LinkedIn](https://www.linkedin.com/in/indrawan-lisanto)
 * [YouTube](https://www.youtube.com/@indrawandev)
-* [Instagram](https://www.instagram.com/indrawan.dev)
+* [Instagram](https://www.instagram.com/indrawandev)
 * [Telegram Grup](https://t.me/+irfBjQR-yYFjYWFl)
 
 ---
