@@ -4,7 +4,6 @@
 
 📍 Jakarta, Indonesia (Remote)
 📧 [me@indrawan.dev](mailto:me@indrawan.dev)
-📱 +62 8515-869-2077
 
 GitHub: https://github.com/itokun99
 Portfolio: https://indrawan.dev
