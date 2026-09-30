@@ -6,16 +6,9 @@
 
 I believe the future of software engineering is not about writing more code — it is about designing better systems for humans and AI to work together. Most of my time goes into helping developers move from **AI as a tool** to **AI as a workflow**.
 
-## Tech Stack
-
-| Area | Tools |
-| --- | --- |
-| **Languages** | TypeScript · JavaScript · Go · Python · SQL · Bash |
-| **Frontend** | React · Next.js · React Native (Bare & Expo) · Redux · Zustand · TanStack Query · Tailwind CSS · GraphQL · Shadcn UI |
-| **Backend** | Go · Node.js · Python · REST API · Microservices · PostgreSQL · MySQL |
-| **DevOps** | Docker · GitHub Actions · Linux (Ubuntu & Arch) · Dokploy |
-| **AI Engineering** | omo native · MCP · Agent Orchestration · Context Engineering · Spec-Driven Development · Model Routing |
-| **Developer Tools** | Git · Neovim · Tmux · Ghostty · Fish Shell · LazyGit |
+- 🛠️ Creator of [Sundabuilder.id](https://sundabuilder.id) — digital works from the land of Sunda
+- 💼 Mobile Developer at [Aleph-Labs](https://aleph-labs.com)
+- 🎓 Student at [Institut Teknologi Tangerang Selatan](https://itts.ac.id)
 
 ## Latest Activity
 
@@ -70,11 +63,16 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 → [All repositories](https://github.com/itokun99?tab=repositories)
 
-## Community
+## Tech Stack
 
-Building a community for Indonesian developers exploring AI-native engineering — omo native, MCP, agent workflows, and model routing. I share the playbook as **indrawandev**.
-
-Build faster. Spend less. Ship more.
+| Area | Tools |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · Go · Python · SQL · Bash |
+| **Frontend** | React · Next.js · React Native (Bare & Expo) · Redux · Zustand · TanStack Query · Tailwind CSS · GraphQL · Shadcn UI |
+| **Backend** | Go · Node.js · Python · REST API · Microservices · PostgreSQL · MySQL |
+| **DevOps** | Docker · GitHub Actions · Linux (Ubuntu & Arch) · Dokploy |
+| **AI Engineering** | omo native · MCP · Agent Orchestration · Context Engineering · Spec-Driven Development · Model Routing |
+| **Developer Tools** | Git · Neovim · Tmux · Ghostty · Fish Shell · LazyGit |
 
 ## Contact
 
