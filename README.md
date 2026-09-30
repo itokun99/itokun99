@@ -27,7 +27,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _5 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "test: exercise default username and token fallbacks in self-test" · _4 hours ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/kiwari/releases/tag/v1.0.0) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _4 hours ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _4 hours ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _5 hours ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add AGENTS.md knowledge base files" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add AGENTS.md knowledge base" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add MIT license and contributing guide" · _1 day ago_
@@ -43,12 +43,12 @@ _Refreshed automatically — open-source repositories active in the last 90 days
 
 | Repository | Description |
 | --- | --- |
+| [**hudang**](https://github.com/itokun99/hudang) | A tiny scheduler that wakes your GitHub Actions workflows when GitHub's own schedule trigger won't … |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… · [blogger-mcp.indrawan.dev](https://blogger-mcp.indrawan.dev/) |
 | [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… · [blogger-go.indrawan.dev](https://blogger-go.indrawan.dev/) |
 | [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
-| [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
 
 ### Private Projects
 
