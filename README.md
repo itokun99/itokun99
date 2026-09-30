@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _12 minutes ago_
-- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _22 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _just now_
+- 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _14 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _27 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _37 minutes ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _5 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _6 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "test: exercise default username and token fallbacks in self-test" · _5 hours ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/kiwari/releases/tag/v1.0.0) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _5 hours ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _5 hours ago_
-- 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add AGENTS.md knowledge base files" · _1 day ago_
-- 📝 Pushed 2 commits to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add AGENTS.md knowledge base" · _1 day ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _6 hours ago_
 <!--END_SECTION:activity-->
 
 ## Projects
