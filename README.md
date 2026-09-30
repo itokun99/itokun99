@@ -15,13 +15,13 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _15 minutes ago_
-- 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _29 minutes ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _42 minutes ago_
-- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _52 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _30 minutes ago_
+- 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _44 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _57 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _1 hour ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _2 hours ago_
-- 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _5 hours ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _6 hours ago_
+- 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _6 hours ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _7 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "test: exercise default username and token fallbacks in self-test" · _6 hours ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/kiwari/releases/tag/v1.0.0) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _6 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _6 hours ago_
@@ -36,6 +36,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
+| [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) | Personal branding archive - CV, bios, portfolio, social records, brand assets |
 | [**hudang**](https://github.com/itokun99/hudang) | A tiny scheduler that wakes your GitHub Actions workflows when GitHub's own schedule trigger won't … |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… · [blogger-mcp.indrawan.dev](https://blogger-mcp.indrawan.dev/) |
@@ -44,7 +45,6 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
 | [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 · [indrawan.dev](https://indrawan.dev/) |
-| [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) | Personal branding archive - CV, bios, portfolio, social records, brand assets |
 | [**superspec-ai-workflow**](https://github.com/itokun99/superspec-ai-workflow) ⭐ 2 | 🚀 AI-driven development workflow blueprint for multi-platform monorepos. Powered by OpenCode, OMO,… |
 | [**omo-switcher**](https://github.com/itokun99/omo-switcher) | Supported multiple config for Opencode + Oh My Openagent |
 | [**trello-json-to-csv**](https://github.com/itokun99/trello-json-to-csv) | Unofficial Json to CSV for Trello, Hack for Unlock trello feature |
