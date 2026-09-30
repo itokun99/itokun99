@@ -22,8 +22,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _7 minutes ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _1 hour ago_
+- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _9 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _5 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _6 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "test: exercise default username and token fallbacks in self-test" · _5 hours ago_
@@ -36,7 +36,7 @@ _Last 10 public events — refreshed automatically._
 
 ## Projects
 
-_Refreshed automatically — open-source repositories active in the last 90 days (pinned excluded), plus private projects._
+_Refreshed automatically — open-source repositories active in the last year (pinned excluded), plus private projects._
 
 <!--START_SECTION:projects-->
 ### Open Source Projects
@@ -49,6 +49,12 @@ _Refreshed automatically — open-source repositories active in the last 90 days
 | [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… · [blogger-go.indrawan.dev](https://blogger-go.indrawan.dev/) |
 | [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
+| [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
+| [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 · [indrawan.dev](https://indrawan.dev/) |
+| [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) | Personal branding archive - CV, bios, portfolio, social records, brand assets |
+| [**superspec-ai-workflow**](https://github.com/itokun99/superspec-ai-workflow) ⭐ 2 | 🚀 AI-driven development workflow blueprint for multi-platform monorepos. Powered by OpenCode, OMO,… |
+| [**omo-switcher**](https://github.com/itokun99/omo-switcher) | Supported multiple config for Opencode + Oh My Openagent |
+| [**homebrew-omo-switch**](https://github.com/itokun99/homebrew-omo-switch) | Homebrew tap for omo-switch |
 
 ### Private Projects
 

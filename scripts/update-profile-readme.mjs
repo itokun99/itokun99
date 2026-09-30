@@ -34,8 +34,8 @@ const ACTIVITY_TYPES = new Set([
 ]);
 
 // --- projects section config ---
-const ACTIVE_DAYS = 90;
-const MAX_PROJECTS = 6;
+const ACTIVE_DAYS = 365;
+const MAX_PROJECTS = 12;
 const REQUIRE_DESCRIPTION = true; // repos without a GitHub description are skipped
 const EXCLUDE_REPOS = new Set([
   "itokun99/itokun99", // this profile repo itself
