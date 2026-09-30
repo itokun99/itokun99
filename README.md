@@ -22,7 +22,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _9 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _7 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _17 minutes ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _5 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _6 hours ago_
@@ -31,7 +32,6 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _5 hours ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add AGENTS.md knowledge base files" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add AGENTS.md knowledge base" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add MIT license and contributing guide" · _1 day ago_
 <!--END_SECTION:activity-->
 
 ## Projects
@@ -54,7 +54,10 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) | Personal branding archive - CV, bios, portfolio, social records, brand assets |
 | [**superspec-ai-workflow**](https://github.com/itokun99/superspec-ai-workflow) ⭐ 2 | 🚀 AI-driven development workflow blueprint for multi-platform monorepos. Powered by OpenCode, OMO,… |
 | [**omo-switcher**](https://github.com/itokun99/omo-switcher) | Supported multiple config for Opencode + Oh My Openagent |
-| [**homebrew-omo-switch**](https://github.com/itokun99/homebrew-omo-switch) | Homebrew tap for omo-switch |
+| [**trello-json-to-csv**](https://github.com/itokun99/trello-json-to-csv) | Unofficial Json to CSV for Trello, Hack for Unlock trello feature |
+| [**wakaba-chan**](https://github.com/itokun99/wakaba-chan) | An Zero Claw Setup |
+| [**guide-to-ai**](https://github.com/itokun99/guide-to-ai) ⭐ 14 | My Personal Guide for Setup Best AI Workflow for Your Large Team and Production Ready |
+| [**dotfiles**](https://github.com/itokun99/dotfiles) ⭐ 1 | My personal dotfiles 😉 |
 
 ### Private Projects
 
@@ -63,7 +66,6 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | **sundabuilder** | Sunda-inspired digital portfolio platform — modern static web with a Sundanese cultural identity. |
 | **pagawe** | HRIS monorepo — Hono + Drizzle (MySQL) backend with a React admin app, Bun tooling, deployed via Dokploy. |
 | **layan** | AI-powered restaurant ordering platform — multi-tenant Go microservices with a conversational ordering interface. |
-| **spark-ai-workflow** | Evaluation memory bank for an AI-agent workflow — patterns, violations, and lessons learned captured from agent runs. |
 <!--END_SECTION:projects-->
 
 → [All repositories](https://github.com/itokun99?tab=repositories)

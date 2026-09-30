@@ -35,18 +35,19 @@ const ACTIVITY_TYPES = new Set([
 
 // --- projects section config ---
 const ACTIVE_DAYS = 365;
-const MAX_PROJECTS = 12;
+const MAX_PROJECTS = 50; // effectively unlimited: the one-year activity window is the real filter
 const REQUIRE_DESCRIPTION = true; // repos without a GitHub description are skipped
 const EXCLUDE_REPOS = new Set([
   "itokun99/itokun99", // this profile repo itself
   "itokun99/kuliahan", // coursework, not a portfolio project
 ]);
+// Homebrew taps and documentation companions are infrastructure, not portfolio projects.
+const EXCLUDE_NAME_PATTERNS = [/^homebrew-/, /-doc$/];
 // GITHUB_TOKEN in Actions cannot read other private repos, so this list is curated here.
 const PRIVATE_PROJECTS = [
   { name: "sundabuilder", description: "Sunda-inspired digital portfolio platform — modern static web with a Sundanese cultural identity." },
   { name: "pagawe", description: "HRIS monorepo — Hono + Drizzle (MySQL) backend with a React admin app, Bun tooling, deployed via Dokploy." },
   { name: "layan", description: "AI-powered restaurant ordering platform — multi-tenant Go microservices with a conversational ordering interface." },
-  { name: "spark-ai-workflow", description: "Evaluation memory bank for an AI-agent workflow — patterns, violations, and lessons learned captured from agent runs." },
 ];
 const PINNED_FALLBACK = [
   "itokun99/omotg",
@@ -243,7 +244,7 @@ async function renderProjects() {
   const rows = repos
     .filter((repo) => !repo.private && !repo.fork && !repo.archived)
     .filter((repo) => new Date(repo.pushed_at).getTime() >= cutoff)
-    .filter((repo) => !pinned.has(repo.full_name) && !EXCLUDE_REPOS.has(repo.full_name))
+    .filter((repo) => !pinned.has(repo.full_name) && !EXCLUDE_REPOS.has(repo.full_name) && !EXCLUDE_NAME_PATTERNS.some((pattern) => pattern.test(repo.name)))
     .filter((repo) => !REQUIRE_DESCRIPTION || oneLine(repo.description))
     .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
     .slice(0, MAX_PROJECTS)
