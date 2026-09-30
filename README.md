@@ -41,9 +41,10 @@ _Public repositories active in the last 90 days, excluding pinned ones — refre
 <!--START_SECTION:projects-->
 - [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pages, comments, publi… · `Go`
 - [**blogger-go**](https://github.com/itokun99/blogger-go) — Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed errors, pagination, and… · `Go`
+- [**codepelajar**](https://github.com/itokun99/codepelajar) — Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. · `JavaScript`
 - [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — A Blogger Template with React JS (Open Source). · `HTML` · ⭐ 10
+- [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated responses, built-in cache… · `TypeScript`
 - [**indrawandev**](https://github.com/itokun99/indrawandev) — My Personal Website build with v0 · `TypeScript`
-- [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — Personal branding archive - CV, bios, portfolio, social records, brand assets
 <!--END_SECTION:projects-->
 
 → [All repositories](https://github.com/itokun99?tab=repositories)
