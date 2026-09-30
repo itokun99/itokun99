@@ -2,8 +2,8 @@ name: Refresh profile README
 
 on:
   schedule:
-    # Every 15 minutes; GitHub's floor is 5 and hourly is "0 * * * *". Runs may be delayed under load.
-    - cron: "*/15 * * * *"
+    # Every 15 minutes, off the :00/:15/:30/:45 grid (scheduler load is highest at the top of the hour).
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
