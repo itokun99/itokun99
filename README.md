@@ -36,17 +36,28 @@ _Last 10 public events — refreshed automatically._
 
 ## Projects
 
-_Public repositories active in the last 90 days, excluding pinned ones — refreshed automatically._
+_Refreshed automatically — open-source repositories active in the last 90 days (pinned excluded), plus private projects._
 
 <!--START_SECTION:projects-->
-| Repository | Description | Language |
-| --- | --- | --- |
-| [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… | `Go` |
-| [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… | `Go` |
-| [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. | `JavaScript` |
-| [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). | `HTML` |
-| [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… | `TypeScript` |
-| [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 | `TypeScript` |
+### Open Source Projects
+
+| Repository | Description |
+| --- | --- |
+| [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… · [blogger-mcp.indrawan.dev](https://blogger-mcp.indrawan.dev/) |
+| [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… · [blogger-go.indrawan.dev](https://blogger-go.indrawan.dev/) |
+| [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
+| [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
+| [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
+| [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 · [indrawan.dev](https://indrawan.dev/) |
+
+### Private Projects
+
+| Project | Description |
+| --- | --- |
+| **sundabuilder** | Sunda-inspired digital portfolio platform — modern static web with a Sundanese cultural identity. |
+| **pagawe** | HRIS monorepo — Hono + Drizzle (MySQL) backend with a React admin app, Bun tooling, deployed via Dokploy. |
+| **layan** | AI-powered restaurant ordering platform — multi-tenant Go microservices with a conversational ordering interface. |
+| **spark-ai-workflow** | Evaluation memory bank for an AI-agent workflow — patterns, violations, and lessons learned captured from agent runs. |
 <!--END_SECTION:projects-->
 
 → [All repositories](https://github.com/itokun99?tab=repositories)

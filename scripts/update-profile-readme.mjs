@@ -5,13 +5,14 @@
  *   <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
  *     the 10 latest public events (commits, pull requests, issues, releases, comments)
  *   <!--START_SECTION:projects--> ... <!--END_SECTION:projects-->
- *     public repositories with activity in the last ACTIVE_DAYS days, excluding pinned ones
+ *     public repositories active in the last ACTIVE_DAYS days (excluding pinned ones),
+ *     followed by the curated private-projects list
  *
  * GitHub Actions runs it with the default GITHUB_TOKEN; locally:
  *   GITHUB_TOKEN="$(gh auth token)" node scripts/update-profile-readme.mjs
  *
- * Only public repositories are ever rendered - private activity must never leak
- * into a public README, even when a broader token is used locally.
+ * All fetched data is public; private projects appear only through the curated
+ * PRIVATE_PROJECTS config (name + description, never links or events).
  */
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -40,6 +41,13 @@ const EXCLUDE_REPOS = new Set([
   "itokun99/itokun99", // this profile repo itself
   "itokun99/kuliahan", // coursework, not a portfolio project
 ]);
+// GITHUB_TOKEN in Actions cannot read other private repos, so this list is curated here.
+const PRIVATE_PROJECTS = [
+  { name: "sundabuilder", description: "Sunda-inspired digital portfolio platform — modern static web with a Sundanese cultural identity." },
+  { name: "pagawe", description: "HRIS monorepo — Hono + Drizzle (MySQL) backend with a React admin app, Bun tooling, deployed via Dokploy." },
+  { name: "layan", description: "AI-powered restaurant ordering platform — multi-tenant Go microservices with a conversational ordering interface." },
+  { name: "spark-ai-workflow", description: "Evaluation memory bank for an AI-agent workflow — patterns, violations, and lessons learned captured from agent runs." },
+];
 const PINNED_FALLBACK = [
   "itokun99/omotg",
   "itokun99/dailydev-mcp",
@@ -90,6 +98,14 @@ function timeAgo(iso) {
 
 const isZeroSha = (sha) => !sha || /^0+$/.test(sha);
 const repoLink = (full) => `[${full}](https://github.com/${full})`;
+
+function websiteLink(homepage) {
+  if (!homepage) return "";
+  let url;
+  try { url = new URL(homepage); } catch { try { url = new URL(`https://${homepage}`); } catch { return ""; } }
+  if (/(^|\.)github\.com$/.test(url.hostname)) return "";
+  return `[${url.hostname}](${url.href})`;
+}
 
 const publicRepoCache = new Map();
 async function isPublicRepo(full) {
@@ -233,12 +249,15 @@ async function renderProjects() {
     .slice(0, MAX_PROJECTS)
     .map((repo) => {
       const name = `[**${repo.name}**](${repo.html_url})${repo.stargazers_count > 0 ? ` ⭐ ${repo.stargazers_count}` : ""}`;
-      const description = truncate(repo.description, 100).replace(/\|/g, "\\|");
-      const language = repo.language ? `\`${repo.language}\`` : "—";
-      return `| ${name} | ${description} | ${language} |`;
+      const website = websiteLink(repo.homepage);
+      const description = `${truncate(repo.description, 100).replace(/\|/g, "\\|")}${website ? ` · ${website}` : ""}`;
+      return `| ${name} | ${description} |`;
     });
-  if (!rows.length) return "_No active public repositories right now._";
-  return ["| Repository | Description | Language |", "| --- | --- | --- |", ...rows].join("\n");
+  const privateRows = PRIVATE_PROJECTS.map(({ name, description }) => `| **${name}** | ${description} |`);
+  const parts = [];
+  if (rows.length) parts.push("### Open Source Projects", "", "| Repository | Description |", "| --- | --- |", ...rows);
+  if (privateRows.length) parts.push("", "### Private Projects", "", "| Project | Description |", "| --- | --- |", ...privateRows);
+  return parts.length ? parts.join("\n") : "_No active public repositories right now._";
 }
 
 function replaceSection(markdown, name, body) {
