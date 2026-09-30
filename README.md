@@ -19,10 +19,10 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _4 hours ago_
 - 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _4 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _4 hours ago_
-- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _4 hours ago_
+- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _5 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _6 hours ago_
-- 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _9 hours ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _10 hours ago_
+- 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _10 hours ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _11 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "test: exercise default username and token fallbacks in self-test" · _10 hours ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/kiwari/releases/tag/v1.0.0) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _10 hours ago_
 <!--END_SECTION:activity-->
