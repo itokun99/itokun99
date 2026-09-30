@@ -22,16 +22,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _just now_
+- 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _3 hours ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _4 hours ago_
+- 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "test: exercise default username and token fallbacks in self-test" · _3 hours ago_
+- 🚀 Released [v1.0.0](https://github.com/itokun99/kiwari/releases/tag/v1.0.0) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _3 hours ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _3 hours ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add AGENTS.md knowledge base files" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add AGENTS.md knowledge base" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add MIT license and contributing guide" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add README with deployment info" · _1 day ago_
+- 📝 Pushed 1 commit to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add README with deployment info" · _2 days ago_
 - 📝 Pushed 3 commits to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: link the documentation site" · _1 day ago_
-- 📝 Pushed 2 commits to [itokun99/blogger-go](https://github.com/itokun99/blogger-go) (`main`) — "docs: add MIT license and contributing guide" · _1 day ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/blogger-mcp/releases/tag/v0.1.0) in [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) · _1 day ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/blogger-go/releases/tag/v0.1.0) in [itokun99/blogger-go](https://github.com/itokun99/blogger-go) · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/blogger-go](https://github.com/itokun99/blogger-go) (`main`) — "feat(services): export documented status, view, and order constants" · _1 day ago_
 <!--END_SECTION:activity-->
 
 ## Projects
@@ -43,12 +43,12 @@ _Refreshed automatically — open-source repositories active in the last 90 days
 
 | Repository | Description |
 | --- | --- |
+| [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… · [blogger-mcp.indrawan.dev](https://blogger-mcp.indrawan.dev/) |
 | [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… · [blogger-go.indrawan.dev](https://blogger-go.indrawan.dev/) |
 | [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
-| [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 · [indrawan.dev](https://indrawan.dev/) |
 
 ### Private Projects
 
