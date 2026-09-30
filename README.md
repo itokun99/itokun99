@@ -22,6 +22,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: split Projects into open-source and private tables" · _just now_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add AGENTS.md knowledge base files" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/blogger-go-doc](https://github.com/itokun99/blogger-go-doc) (`main`) — "docs: add AGENTS.md knowledge base" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) (`main`) — "docs: add MIT license and contributing guide" · _1 day ago_
@@ -31,7 +32,6 @@ _Last 10 public events — refreshed automatically._
 - 🚀 Released [v0.1.0](https://github.com/itokun99/blogger-mcp/releases/tag/v0.1.0) in [itokun99/blogger-mcp](https://github.com/itokun99/blogger-mcp) · _1 day ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/blogger-go/releases/tag/v0.1.0) in [itokun99/blogger-go](https://github.com/itokun99/blogger-go) · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/blogger-go](https://github.com/itokun99/blogger-go) (`main`) — "feat(services): export documented status, view, and order constants" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/react-blogger-api](https://github.com/itokun99/react-blogger-api) (`main`) — "feat: add axios adapter and TanStack Query integration" · _2 days ago_
 <!--END_SECTION:activity-->
 
 ## Projects
