@@ -39,7 +39,6 @@ const REQUIRE_DESCRIPTION = true; // repos without a GitHub description are skip
 const EXCLUDE_REPOS = new Set([
   "itokun99/itokun99", // this profile repo itself
   "itokun99/kuliahan", // coursework, not a portfolio project
-  "itokun99/performance-review", // internal HR documents, not a project
 ]);
 const PINNED_FALLBACK = [
   "itokun99/omotg",
@@ -74,6 +73,21 @@ const truncate = (text, max) => {
   const t = oneLine(text);
   return t.length > max ? `${t.slice(0, max - 1)}…` : t;
 };
+function timeAgo(iso) {
+  const seconds = Math.max(0, Math.floor((Date.now() - new Date(iso).getTime()) / 1000));
+  if (seconds < 60) return "just now";
+  const minutes = Math.floor(seconds / 60);
+  if (minutes < 60) return `${minutes} minute${minutes > 1 ? "s" : ""} ago`;
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) return `${hours} hour${hours > 1 ? "s" : ""} ago`;
+  const days = Math.floor(hours / 24);
+  if (days < 30) return `${days} day${days > 1 ? "s" : ""} ago`;
+  const months = Math.floor(days / 30);
+  if (months < 12) return `${months} month${months > 1 ? "s" : ""} ago`;
+  const years = Math.floor(days / 365);
+  return `${years} year${years > 1 ? "s" : ""} ago`;
+}
+
 const isZeroSha = (sha) => !sha || /^0+$/.test(sha);
 const repoLink = (full) => `[${full}](https://github.com/${full})`;
 
@@ -107,7 +121,7 @@ async function pushCommitInfo(full, payload) {
 
 async function toEntry(event) {
   const full = event.repo.name;
-  const date = event.created_at.slice(0, 10);
+  const date = event.created_at;
   const payload = event.payload || {};
   switch (event.type) {
     case "PushEvent": {
@@ -151,11 +165,11 @@ async function toEntry(event) {
 }
 
 function renderEntry(entry) {
-  if (entry.kind === "line") return `- ${entry.text} · _${entry.date}_`;
+  if (entry.kind === "line") return `- ${entry.text} · _${timeAgo(entry.date)}_`;
   const bits = [`📝 Pushed${entry.count ? ` ${entry.count} commit${entry.count > 1 ? "s" : ""}` : ""} to ${repoLink(entry.repo)}`];
   if (entry.ref) bits.push(`(\`${entry.ref}\`)`);
   if (entry.message) bits.push(`— "${entry.message}"`);
-  return `- ${bits.join(" ")} · _${entry.date}_`;
+  return `- ${bits.join(" ")} · _${timeAgo(entry.date)}_`;
 }
 
 function mergeEntries(entries) {
@@ -210,7 +224,7 @@ async function renderProjects() {
     getPinnedRepos(),
   ]);
   const cutoff = Date.now() - ACTIVE_DAYS * 24 * 60 * 60 * 1000;
-  const lines = repos
+  const rows = repos
     .filter((repo) => !repo.private && !repo.fork && !repo.archived)
     .filter((repo) => new Date(repo.pushed_at).getTime() >= cutoff)
     .filter((repo) => !pinned.has(repo.full_name) && !EXCLUDE_REPOS.has(repo.full_name))
@@ -218,11 +232,13 @@ async function renderProjects() {
     .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
     .slice(0, MAX_PROJECTS)
     .map((repo) => {
-      const language = repo.language ? ` · \`${repo.language}\`` : "";
-      const stars = repo.stargazers_count > 0 ? ` · ⭐ ${repo.stargazers_count}` : "";
-      return `- [**${repo.name}**](${repo.html_url}) — ${truncate(repo.description, 120)}${language}${stars}`;
+      const name = `[**${repo.name}**](${repo.html_url})${repo.stargazers_count > 0 ? ` ⭐ ${repo.stargazers_count}` : ""}`;
+      const description = truncate(repo.description, 100).replace(/\|/g, "\\|");
+      const language = repo.language ? `\`${repo.language}\`` : "—";
+      return `| ${name} | ${description} | ${language} |`;
     });
-  return lines.length ? lines.join("\n") : "_No active public repositories right now._";
+  if (!rows.length) return "_No active public repositories right now._";
+  return ["| Repository | Description | Language |", "| --- | --- | --- |", ...rows].join("\n");
 }
 
 function replaceSection(markdown, name, body) {
