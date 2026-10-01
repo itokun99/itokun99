@@ -15,12 +15,12 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _19 hours ago_
+- 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _20 hours ago_
 - 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "fix: log the real next run time at startup" · _21 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _20 hours ago_
 - 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _20 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _20 hours ago_
-- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _20 hours ago_
+- 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _21 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _22 hours ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add auto-updating profile README (live activity + active projec…" · _1 day ago_
