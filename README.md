@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _23 hours ago_
+- 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "fix: log the real next run time at startup" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _1 day ago_
 - 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _1 day ago_
