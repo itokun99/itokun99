@@ -17,7 +17,7 @@ _Last 10 public events — refreshed automatically._
 <!--START_SECTION:activity-->
 - 📝 Pushed 2 commits to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: show all year-active projects; skip tap/doc repos and storage-o…" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: render preview examples instead of fenced code blocks" · _2 days ago_
-- 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _1 day ago_
+- 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "fix: log the real next run time at startup" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "docs: add current roles, drop Community, move Tech Stack above Contact" · _2 days ago_
 - 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _2 days ago_
