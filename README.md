@@ -23,7 +23,7 @@ _Last 10 public events — refreshed automatically._
 - 🐛 Closed issue [#1](https://github.com/itokun99/itokun99/issues/1) "You're on the SigRank board — claim your profile or remove …" in [itokun99/itokun99](https://github.com/itokun99/itokun99) · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: expand the projects list to 12 (active within the last year)" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/hudang](https://github.com/itokun99/hudang) (`main`) — "chore: verify event feed and auto-deploy on push" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _1 day ago_
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix(ci): re-register the schedule with an off-peak cron" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: link the GitHub Marketplace listing" · _2 days ago_
 <!--END_SECTION:activity-->
 
