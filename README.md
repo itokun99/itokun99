@@ -1,4 +1,4 @@
-# Hi, I'm Indrawan 👋
+# Hi 👋
 
 > AI-Native Full-Stack Engineer · Mobile-first — building software through orchestration, automation, and terminal-first workflows.
 
