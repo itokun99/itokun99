@@ -19,9 +19,9 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "feat: add weekly section - rank top repositories by commit/PR/issue/r…" · _1 hour ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: pluralize the 100+ commit weekly badge" · _1 hour ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _3 hours ago_
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _3 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 hours ago_
-- 📝 Pushed 2 commits to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "feat(ai): support custom headers per AI provider configuration" · _6 hours ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 hours ago_
+- 📝 Pushed 2 commits to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "feat(ai): support custom headers per AI provider configuration" · _7 hours ago_
 - 🔀 Opened PR [#9560](undefined) "" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _7 hours ago_
 - 🔀 Opened PR [#5577](undefined) "" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _7 hours ago_
 - 🐛 Opened issue [#5576](https://github.com/Dokploy/dokploy/issues/5576) "feat(ai): allow custom HTTP headers per AI provider configu…" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _7 hours ago_
@@ -38,9 +38,8 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 4. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 3 commits · 🔀 2 PRs
 5. [**omo-tmux-dag**](https://github.com/itokun99/omo-tmux-dag) — 📝 4 commits · 🚀 1 release
 6. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
-7. [**indrawandev**](https://github.com/itokun99/indrawandev) — 📝 2 commits · 🔀 1 PR
-8. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 📝 1 commit · 🚀 1 release
-9. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
+7. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 📝 1 commit · 🚀 1 release
+8. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
