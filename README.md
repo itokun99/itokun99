@@ -18,7 +18,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "feat(ai): support custom headers per AI provider configuration" · _1 hour ago_
 - 🔀 Opened PR [#9560](undefined) "" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _1 hour ago_
 - 🔀 Opened PR [#5577](undefined) "" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _1 hour ago_
-- 🐛 Opened issue [#5576](https://github.com/Dokploy/dokploy/issues/5576) "feat(ai): allow custom HTTP headers per AI provider configu…" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _1 hour ago_
+- 🐛 Opened issue [#5576](https://github.com/Dokploy/dokploy/issues/5576) "feat(ai): allow custom HTTP headers per AI provider configu…" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _2 hours ago_
 - 🐛 Opened issue [#9555](https://github.com/code-yeongyu/oh-my-openagent/issues/9555) "[Bug]: agents.<name>.prompt_append is silently ignored on t…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _2 hours ago_
 - 📝 Pushed 5 commits to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Revise README introduction and personal branding" · _19 hours ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: render preview examples instead of fenced code blocks" · _4 days ago_
