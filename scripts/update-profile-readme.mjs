@@ -281,7 +281,7 @@ async function renderWeekly(events) {
       // commit fetch failed (rate limit): the row still shows the event-based counts
     }
     const counts = [
-      commits > 0 ? `📝 ${plural(commits >= 100 ? "100+" : commits, "commit")}` : "",
+      commits > 0 ? `📝 ${commits >= 100 ? "100+ commits" : plural(commits, "commit")}` : "",
       stats.prs ? `🔀 ${plural(stats.prs, "PR")}` : "",
       stats.issues ? `🐛 ${plural(stats.issues, "issue")}` : "",
       stats.releases ? `🚀 ${plural(stats.releases, "release")}` : "",
