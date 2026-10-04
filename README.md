@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🐛 Opened issue [#9555](https://github.com/code-yeongyu/oh-my-openagent/issues/9555) "[Bug]: agents.<name>.prompt_append is silently ignored on t…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _23 minutes ago_
+- 🐛 Opened issue [#9555](https://github.com/code-yeongyu/oh-my-openagent/issues/9555) "[Bug]: agents.<name>.prompt_append is silently ignored on t…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _38 minutes ago_
 - 📝 Pushed 5 commits to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Revise README introduction and personal branding" · _17 hours ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: render preview examples instead of fenced code blocks" · _4 days ago_
 - 📝 Pushed 1 commit to [itokun99/my-personal-branding](https://github.com/itokun99/my-personal-branding) (`main`) — "sync: kiwari + hudang across CVs and bios; add ID/SU post records for…" · _3 days ago_
