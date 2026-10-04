@@ -4,6 +4,12 @@
  *
  *   <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
  *     the 10 latest public events (commits, pull requests, issues, releases, comments)
+ *   <!--START_SECTION:weekly--> ... <!--END_SECTION:weekly-->
+ *     up to 10 most active public repositories in the last 7 days, ranked by weekly
+ *     commit / PR / issue / release counts. PR/issue/release counts come from the
+ *     user's events; commit counts come from each active repo's commits API
+ *     (the public events API omits push sizes). Only the user's own public,
+ *     non-fork repositories rank.
  *   <!--START_SECTION:projects--> ... <!--END_SECTION:projects-->
  *     public repositories active in the last ACTIVE_DAYS days (excluding pinned ones),
  *     followed by the curated private-projects list
@@ -32,6 +38,11 @@ const ACTIVITY_TYPES = new Set([
   "IssueCommentEvent",
   "DiscussionEvent",
 ]);
+
+// --- weekly top projects section config ---
+const WEEKLY_DAYS = 7;
+const MAX_WEEKLY_PROJECTS = 10;
+const WEEKLY_EVENT_TYPES = new Set(["PushEvent", "PullRequestEvent", "IssuesEvent", "ReleaseEvent"]);
 
 // --- projects section config ---
 const ACTIVE_DAYS = 365;
@@ -82,6 +93,7 @@ const truncate = (text, max) => {
   const t = oneLine(text);
   return t.length > max ? `${t.slice(0, max - 1)}…` : t;
 };
+const plural = (count, word) => `${count} ${word}${count > 1 ? "s" : ""}`;
 function timeAgo(iso) {
   const seconds = Math.max(0, Math.floor((Date.now() - new Date(iso).getTime()) / 1000));
   if (seconds < 60) return "just now";
@@ -108,19 +120,26 @@ function websiteLink(homepage) {
   return `[${url.hostname}](${url.href})`;
 }
 
-const publicRepoCache = new Map();
-async function isPublicRepo(full) {
-  if (!publicRepoCache.has(full)) {
-    let isPublic = false;
+const repoInfoCache = new Map();
+async function repoInfo(full) {
+  if (!repoInfoCache.has(full)) {
+    let repo = null;
     try {
-      const repo = await api(`/repos/${full}`);
-      isPublic = repo.private === false;
+      repo = await api(`/repos/${full}`);
     } catch {
-      isPublic = false; // 404 / no access -> treat as non-public
+      repo = null; // 404 / no access
     }
-    publicRepoCache.set(full, isPublic);
+    repoInfoCache.set(full, repo);
   }
-  return publicRepoCache.get(full);
+  return repoInfoCache.get(full);
+}
+async function isPublicRepo(full) {
+  const repo = await repoInfo(full);
+  return repo ? repo.private === false : false; // a null lookup is a non-public repo
+}
+async function isFork(full) {
+  const repo = await repoInfo(full);
+  return repo ? repo.fork === true : false;
 }
 
 async function pushCommitInfo(full, payload) {
@@ -204,8 +223,16 @@ function mergeEntries(entries) {
   return merged;
 }
 
-async function renderActivity() {
-  const events = await api(`/users/${USERNAME}/events?per_page=100`);
+async function fetchEvents() {
+  // The events API serves at most ~300 items across 3 pages; plenty for both the
+  // activity list and the weekly aggregation.
+  const pages = await Promise.all(
+    [1, 2, 3].map((page) => api(`/users/${USERNAME}/events?per_page=100&page=${page}`).catch(() => [])),
+  );
+  return pages.flat();
+}
+
+async function renderActivity(events) {
   const candidates = [];
   for (const event of events) {
     if (!ACTIVITY_TYPES.has(event.type)) continue;
@@ -216,6 +243,57 @@ async function renderActivity() {
   }
   const lines = mergeEntries(candidates).slice(0, MAX_LINES).map(renderEntry);
   return lines.length ? lines.join("\n") : "_No recent public activity._";
+}
+
+async function renderWeekly(events) {
+  const cutoffIso = new Date(Date.now() - WEEKLY_DAYS * 24 * 60 * 60 * 1000).toISOString();
+  const candidates = new Set(); // full names of own-user repos with any weekly event
+  const counters = new Map(); // full name -> { prs, issues, releases }
+  for (const event of events) {
+    if (!WEEKLY_EVENT_TYPES.has(event.type)) continue;
+    if (event.created_at < cutoffIso) continue;
+    const full = event.repo.name;
+    if (!full.startsWith(`${USERNAME}/`)) continue; // the events feed also carries cross-repo activity; rank own repos only
+    if (EXCLUDE_REPOS.has(full) || EXCLUDE_NAME_PATTERNS.some((pattern) => pattern.test(full.split("/")[1]))) continue;
+    const payload = event.payload || {};
+    const counter =
+      event.type === "PullRequestEvent" && payload.action === "opened" ? "prs"
+      : event.type === "IssuesEvent" && payload.action === "opened" ? "issues"
+      : event.type === "ReleaseEvent" ? "releases"
+      : null;
+    if (counter) {
+      const stats = counters.get(full) || { prs: 0, issues: 0, releases: 0 };
+      stats[counter] += 1;
+      counters.set(full, stats);
+    }
+    candidates.add(full);
+  }
+  const rows = [];
+  for (const full of candidates) {
+    if (!(await isPublicRepo(full)) || (await isFork(full))) continue; // forks rank their upstream's activity
+    const stats = counters.get(full) || { prs: 0, issues: 0, releases: 0 };
+    let commits = 0;
+    try {
+      // Default branch only, capped at the page size; a 100+ commit week renders as "100+".
+      const list = await api(`/repos/${full}/commits?since=${cutoffIso}&per_page=100`);
+      commits = list.length;
+    } catch {
+      // commit fetch failed (rate limit): the row still shows the event-based counts
+    }
+    const counts = [
+      commits > 0 ? `📝 ${plural(commits >= 100 ? "100+" : commits, "commit")}` : "",
+      stats.prs ? `🔀 ${plural(stats.prs, "PR")}` : "",
+      stats.issues ? `🐛 ${plural(stats.issues, "issue")}` : "",
+      stats.releases ? `🚀 ${plural(stats.releases, "release")}` : "",
+    ].filter(Boolean);
+    if (!counts.length) continue;
+    rows.push({ full, score: commits + stats.prs + stats.issues + stats.releases, text: `[**${full.split("/")[1]}**](https://github.com/${full}) — ${counts.join(" · ")}` });
+  }
+  const lines = rows
+    .sort((a, b) => b.score - a.score || a.full.localeCompare(b.full))
+    .slice(0, MAX_WEEKLY_PROJECTS)
+    .map((row, index) => `${index + 1}. ${row.text}`);
+  return lines.length ? lines.join("\n") : "_No public activity this week._";
 }
 
 async function getPinnedRepos() {
@@ -269,8 +347,13 @@ function replaceSection(markdown, name, body) {
 
 async function main() {
   const readme = await readFile(README_PATH, "utf8");
-  const [activity, projects] = await Promise.all([renderActivity(), renderProjects()]);
-  const updated = replaceSection(replaceSection(readme, "activity", activity), "projects", projects);
+  const events = await fetchEvents();
+  const [activity, weekly, projects] = await Promise.all([renderActivity(events), renderWeekly(events), renderProjects()]);
+  const updated = replaceSection(
+    replaceSection(replaceSection(readme, "activity", activity), "weekly", weekly),
+    "projects",
+    projects,
+  );
   if (updated === readme) {
     console.log("README already up to date.");
     return;

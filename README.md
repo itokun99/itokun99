@@ -27,6 +27,22 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "docs: render preview examples instead of fenced code blocks" · _4 days ago_
 <!--END_SECTION:activity-->
 
+## Top Projects This Week
+
+_Most active public repositories in the last 7 days — refreshed automatically._
+
+<!--START_SECTION:weekly-->
+1. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 6 commits · 🚀 1 release
+2. [**indrawandev**](https://github.com/itokun99/indrawandev) — 📝 4 commits · 🔀 2 PRs
+3. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 5 commits · 🚀 1 release
+4. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 4 commits · 🚀 1 release
+5. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 3 commits · 🔀 2 PRs
+6. [**omo-tmux-dag**](https://github.com/itokun99/omo-tmux-dag) — 📝 4 commits · 🚀 1 release
+7. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
+8. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 📝 1 commit · 🚀 1 release
+9. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
+<!--END_SECTION:weekly-->
+
 ## Projects
 
 _Refreshed automatically — open-source repositories active in the last year (pinned excluded), plus private projects._
