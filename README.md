@@ -15,11 +15,11 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _28 minutes ago_
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _40 minutes ago_
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _48 minutes ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _43 minutes ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _55 minutes ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _1 hour ago_
 - 📝 Pushed 2 commits to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "feat(ai): support custom headers per AI provider configuration" · _3 hours ago_
-- 🔀 Opened PR [#9560](undefined) "" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _3 hours ago_
+- 🔀 Opened PR [#9560](undefined) "" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 hours ago_
 - 🔀 Opened PR [#5577](undefined) "" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _4 hours ago_
 - 🐛 Opened issue [#5576](https://github.com/Dokploy/dokploy/issues/5576) "feat(ai): allow custom HTTP headers per AI provider configu…" in [Dokploy/dokploy](https://github.com/Dokploy/dokploy) · _4 hours ago_
 - 🐛 Opened issue [#9555](https://github.com/code-yeongyu/oh-my-openagent/issues/9555) "[Bug]: agents.<name>.prompt_append is silently ignored on t…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _5 hours ago_
