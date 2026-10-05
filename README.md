@@ -35,12 +35,11 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 1. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 6 commits · 🚀 2 releases
 2. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 6 commits · 🚀 1 release
 3. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 4 commits · 🚀 1 release
-4. [**omo-tmux-dag**](https://github.com/itokun99/omo-tmux-dag) — 📝 4 commits · 🚀 1 release
-5. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
-6. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 📝 1 commit · 🚀 1 release
-7. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
-8. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
-9. [**omo-switcher**](https://github.com/itokun99/omo-switcher) — 📝 1 commit
+4. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
+5. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 📝 1 commit · 🚀 1 release
+6. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
+7. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
+8. [**omo-switcher**](https://github.com/itokun99/omo-switcher) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
