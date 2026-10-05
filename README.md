@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/omo-switcher](https://github.com/itokun99/omo-switcher) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _3 hours ago_
+- 📝 Pushed 1 commit to [itokun99/omo-switcher](https://github.com/itokun99/omo-switcher) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _4 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 hours ago_
 - 📝 Pushed 109 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "refactor(senpi): lazy-load memfs command maintenance runtime" · _4 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add Top Projects This Week section (top 10 active repos, 7-day …" · _15 hours ago_
@@ -24,7 +24,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "feat: add weekly section - rank top repositories by commit/PR/issue/r…" · _14 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: pluralize the 100+ commit weekly badge" · _14 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _16 hours ago_
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _16 hours ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _17 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -36,10 +36,9 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 2. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 6 commits · 🚀 1 release
 3. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 4 commits · 🚀 1 release
 4. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
-5. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 📝 1 commit · 🚀 1 release
-6. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
-7. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
-8. [**omo-switcher**](https://github.com/itokun99/omo-switcher) — 📝 1 commit
+5. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
+6. [**omo-switcher**](https://github.com/itokun99/omo-switcher) — 📝 1 commit
+7. [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) — 🚀 1 release
 <!--END_SECTION:weekly-->
 
 ## Projects
