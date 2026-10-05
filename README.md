@@ -22,9 +22,9 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _6 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _7 hours ago_
-- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _7 hours ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _8 hours ago_
 - 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _8 hours ago_
-- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _8 hours ago_
+- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _9 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -36,8 +36,8 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 2. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 8 commits
 3. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 5 commits · 🚀 1 release
 4. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
-5. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 2 commits · 🚀 1 release
-6. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
+5. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
+6. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 1 commit · 🚀 1 release
 7. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
 8. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
 <!--END_SECTION:weekly-->
