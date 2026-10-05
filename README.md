@@ -15,8 +15,9 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _29 minutes ago_
-- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _52 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _3 minutes ago_
+- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _44 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _1 hour ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _8 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _8 hours ago_
 - 📝 Pushed 109 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "refactor(senpi): lazy-load memfs command maintenance runtime" · _8 hours ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 40 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "feat(web): reveal the manifesto a screenful at a time" · _21 hours ago_
 - 🚀 Released [v1.1.0](https://github.com/itokun99/kiwari/releases/tag/v1.1.0) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _19 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "feat: add weekly section - rank top repositories by commit/PR/issue/r…" · _19 hours ago_
-- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: pluralize the 100+ commit weekly badge" · _19 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -37,8 +37,9 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 3. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 3 commits · 🔀 1 PR
 4. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 2 commits · 🚀 1 release
 5. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
-6. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 1 commit
-7. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
+6. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
+7. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 1 commit
+8. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
@@ -50,6 +51,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
+| [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**lalajoanime**](https://github.com/itokun99/lalajoanime) | Anime streaming & download portal — Vite + React + TypeScript + Tailwind + shadcn in a neoterminal … |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
@@ -58,7 +60,6 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… · [blogger-mcp.indrawan.dev](https://blogger-mcp.indrawan.dev/) |
 | [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… · [blogger-go.indrawan.dev](https://blogger-go.indrawan.dev/) |
 | [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
-| [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
 | [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 · [indrawan.dev](https://indrawan.dev/) |
 | [**superspec-ai-workflow**](https://github.com/itokun99/superspec-ai-workflow) ⭐ 2 | 🚀 AI-driven development workflow blueprint for multi-platform monorepos. Powered by OpenCode, OMO,… |
