@@ -15,12 +15,12 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix: restore Formula structure and pin real v3.0.0 sha256" · _26 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix: restore Formula structure and pin real v3.0.0 sha256" · _41 minutes ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _1 hour ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _1 hour ago_
-- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _1 hour ago_
+- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _2 hours ago_
-- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _9 hours ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _10 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _10 hours ago_
 - 📝 Pushed 109 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "refactor(senpi): lazy-load memfs command maintenance runtime" · _10 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add Top Projects This Week section (top 10 active repos, 7-day …" · _21 hours ago_
@@ -33,9 +33,9 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 6 commits · 🚀 2 releases
-2. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 6 commits · 🚀 1 release
-3. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
-4. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 5 commits
+2. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 8 commits
+3. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 6 commits · 🚀 1 release
+4. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 5. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 2 commits · 🚀 1 release
 6. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
 7. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
