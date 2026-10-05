@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump brace-expansion from 1.1.11 to 1.1.21 (#39)" · _5 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: add AGENTS.md knowledge base (#1)" · _6 hours ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: pin real v3.0.0 asset sha256 in Formula/lazyomo.rb" · _5 hours ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump brace-expansion from 1.1.11 to 1.1.21 (#39)" · _6 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: add AGENTS.md knowledge base (#1)" · _7 hours ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _3 hours ago_
 - 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _4 hours ago_
-- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _5 hours ago_
-- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _5 hours ago_
-- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _6 hours ago_
-- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _6 hours ago_
-- 📝 Pushed to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) · _14 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _5 hours ago_
+- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _6 hours ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _6 hours ago_
+- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _7 hours ago_
+- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: drop legacy trees from the working tree" · _7 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -34,7 +34,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 <!--START_SECTION:weekly-->
 1. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 6 commits · 🚀 2 releases
 2. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 8 commits
-3. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 6 commits · 🚀 1 release
+3. [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) — 📝 5 commits · 🚀 1 release
 4. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 5. [**blogger-go**](https://github.com/itokun99/blogger-go) — 📝 2 commits · 🚀 1 release
 6. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
