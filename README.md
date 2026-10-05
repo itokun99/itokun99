@@ -21,9 +21,9 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "feat: add weekly section - rank top repositories by commit/PR/issue/r…" · _7 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: pluralize the 100+ commit weekly badge" · _7 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _9 hours ago_
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _9 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _10 hours ago_
-- 📝 Pushed 2 commits to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "feat(ai): support custom headers per AI provider configuration" · _12 hours ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _10 hours ago_
+- 📝 Pushed 2 commits to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "feat(ai): support custom headers per AI provider configuration" · _13 hours ago_
 - 🔀 Opened PR [#9560](undefined) "" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _13 hours ago_
 <!--END_SECTION:activity-->
 
