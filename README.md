@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/omo-switcher](https://github.com/itokun99/omo-switcher) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _1 hour ago_
+- 📝 Pushed 1 commit to [itokun99/omo-switcher](https://github.com/itokun99/omo-switcher) (`main`) — "docs: add init-deep agent knowledge base\n\nRoot AGENTS.md restructur…" · _2 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _2 hours ago_
 - 📝 Pushed 109 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "refactor(senpi): lazy-load memfs command maintenance runtime" · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "feat: add Top Projects This Week section (top 10 active repos, 7-day …" · _13 hours ago_
@@ -24,7 +24,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "feat: add weekly section - rank top repositories by commit/PR/issue/r…" · _12 hours ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: pluralize the 100+ commit weekly badge" · _12 hours ago_
 - 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _14 hours ago_
-- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _14 hours ago_
+- 💬 Commented on [#9560](https://github.com/code-yeongyu/oh-my-openagent/pull/9560) "feat(senpi-task): honor agents.<name>.prompt_append on the …" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _15 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
