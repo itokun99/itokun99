@@ -15,8 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "docs(deploy): add evidence run for the Dokploy deployment" · _2 hours ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _48 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "docs(deploy): add evidence run for the Dokploy deployment" · _3 hours ago_
+- 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _1 hour ago_
 - 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _3 hours ago_
