@@ -16,7 +16,7 @@ _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
 - 📝 Pushed 2 commits to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: add AGENTS.md knowledge base (#1)" · _5 hours ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _1 hour ago_
+- 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _3 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _4 hours ago_
