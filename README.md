@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Opened PR [#5](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _just now_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(mcpfile): add strict-JSON mcp.json editing session" · _16 minutes ago_
-- 🔀 Opened PR [#4](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _16 minutes ago_
-- 🔀 Opened PR [#3](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _19 minutes ago_
-- 📝 Pushed 3 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(editor): add git_master section and real read-only surfaces" · _28 minutes ago_
-- 🔀 Opened PR [#2](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _36 minutes ago_
-- 🔀 Opened PR [#1](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _47 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): build model candidate catalog from live sources" · _15 minutes ago_
+- 🔀 Opened PR [#5](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _15 minutes ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(mcpfile): add strict-JSON mcp.json editing session" · _30 minutes ago_
+- 🔀 Opened PR [#4](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _31 minutes ago_
+- 🔀 Opened PR [#3](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _34 minutes ago_
+- 📝 Pushed 3 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(editor): add git_master section and real read-only surfaces" · _43 minutes ago_
+- 🔀 Opened PR [#2](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _51 minutes ago_
+- 🔀 Opened PR [#1](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _1 hour ago_
 - 📝 Pushed 1 commit to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "feat(senpi-task): honor agents.<name>.prompt_append on the native edi…" · _1 day ago_
-- 🗣️ Created discussion [#9637](https://github.com/code-yeongyu/oh-my-openagent/discussions/9637) "lazyomo — a lazygit-style TUI editor for your ~/.omo/omo.js…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _9 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: refresh root AGENTS.md for the lazyomo editor architecture" · _17 hours ago_
+- 🗣️ Created discussion [#9637](https://github.com/code-yeongyu/oh-my-openagent/discussions/9637) "lazyomo — a lazygit-style TUI editor for your ~/.omo/omo.js…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _10 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
