@@ -16,8 +16,8 @@ _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
 - 📝 Pushed 4 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: update Formula sha256 for v3.1.0" · _2 hours ago_
-- 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _2 hours ago_
-- 🔀 Opened PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _2 hours ago_
+- 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _3 hours ago_
+- 🔀 Opened PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _3 hours ago_
 - 📝 Pushed 7 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix(formula): add install and test blocks so brew install works" · _1 day ago_
 - 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _3 hours ago_
 - 🔀 Opened PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _3 hours ago_
