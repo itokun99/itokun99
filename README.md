@@ -15,10 +15,10 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🚀 Released [v1.1.1](https://github.com/itokun99/kiwari/releases/tag/v1.1.1) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _9 minutes ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _39 minutes ago_
-- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _39 minutes ago_
-- 🔀 Opened PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _39 minutes ago_
+- 🚀 Released [v1.1.1](https://github.com/itokun99/kiwari/releases/tag/v1.1.1) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _24 minutes ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _54 minutes ago_
+- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _54 minutes ago_
+- 🔀 Opened PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _54 minutes ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): build model candidate catalog from live sources" · _1 hour ago_
 - 🔀 Merged PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _1 hour ago_
 - 🔀 Opened PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _1 hour ago_
