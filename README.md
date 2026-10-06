@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Opened PR [#2](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _6 minutes ago_
-- 🔀 Opened PR [#1](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _17 minutes ago_
+- 🔀 Opened PR [#4](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _1 minute ago_
+- 🔀 Opened PR [#3](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _4 minutes ago_
+- 📝 Pushed 3 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(editor): add git_master section and real read-only surfaces" · _13 minutes ago_
+- 🔀 Opened PR [#2](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _21 minutes ago_
+- 🔀 Opened PR [#1](undefined) "" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _32 minutes ago_
 - 📝 Pushed 1 commit to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "feat(senpi-task): honor agents.<name>.prompt_append on the native edi…" · _1 day ago_
 - 🗣️ Created discussion [#9637](https://github.com/code-yeongyu/oh-my-openagent/discussions/9637) "lazyomo — a lazygit-style TUI editor for your ~/.omo/omo.js…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _9 hours ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: refresh root AGENTS.md for the lazyomo editor architecture" · _16 hours ago_
-- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump brace-expansion from 1.1.11 to 1.1.21 (#39)" · _17 hours ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump brace-expansion from 1.1.11 to 1.1.21 (#39)" · _18 hours ago_
 - 📝 Pushed 2 commits to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: add AGENTS.md knowledge base (#1)" · _18 hours ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _15 hours ago_
-- 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _16 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 9 commits · 🔀 2 PRs
+1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 16 commits · 🔀 4 PRs
 2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 6 commits · 🚀 2 releases
 3. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 4. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
