@@ -15,7 +15,9 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): add source registry and provenance model" · _9 hours ago_
+- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 minutes ago_
+- 🔀 Opened PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _10 minutes ago_
+- 📝 Pushed 3 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat: repurpose as lazyomo, a TUI editor for ~/.omo/omo.jsonc" · _1 day ago_
 - 🚀 Released [v1.1.1](https://github.com/itokun99/kiwari/releases/tag/v1.1.1) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _8 hours ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _8 hours ago_
 - 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
@@ -23,8 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): build model candidate catalog from live sources" · _9 hours ago_
 - 🔀 Merged PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
 - 🔀 Opened PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(mcpfile): add strict-JSON mcp.json editing session" · _9 hours ago_
-- 🔀 Merged PR [#4](https://github.com/itokun99/lazyomo/pull/4) "feat(mcpfile): strict-JSON mcp.json session + trimStart par…" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 19 commits · 🔀 6 PRs
+1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 25 commits · 🔀 7 PRs
 2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 7 commits · 🚀 3 releases
 3. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 4. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
@@ -49,8 +49,8 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
-| [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) | Supported multiple config for Opencode + Oh My Openagent |
+| [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**lalajoanime**](https://github.com/itokun99/lalajoanime) | Anime streaming & download portal — Vite + React + TypeScript + Tailwind + shadcn in a neoterminal … |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) | Personal branding archive - CV, bios, portfolio, social records, brand assets |
