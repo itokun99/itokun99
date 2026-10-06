@@ -111,6 +111,10 @@ function timeAgo(iso) {
 
 const isZeroSha = (sha) => !sha || /^0+$/.test(sha);
 const repoLink = (full) => `[${full}](https://github.com/${full})`;
+// The events API trims PR payloads to identifiers only (2025-08 changelog), so the
+// line is built from repo + number and the title arrives later via enrichTitles().
+const prLine = (verb, full, number, url, title) =>
+  `🔀 ${verb} PR [#${number}](${url})${title ? ` "${truncate(title, 60)}"` : ""} in ${repoLink(full)}`;
 
 function websiteLink(homepage) {
   if (!homepage) return "";
@@ -167,13 +171,19 @@ async function toEntry(event) {
     }
     case "PullRequestEvent": {
       const pr = payload.pull_request || {};
+      const number = payload.number ?? pr.number;
       const verb =
         payload.action === "opened" ? "Opened"
         : payload.action === "reopened" ? "Reopened"
+        : payload.action === "merged" ? "Merged" // emitted since the payload trim
         : payload.action === "closed" ? (pr.merged ? "Merged" : "Closed")
         : null;
       if (!verb) return null;
-      return { kind: "line", date, text: `🔀 ${verb} PR [#${payload.number}](${pr.html_url}) "${truncate(pr.title, 60)}" in ${repoLink(full)}` };
+      const url = pr.html_url || `https://github.com/${full}/pull/${number}`;
+      const title = pr.title || "";
+      const entry = { kind: "line", date, text: prLine(verb, full, number, url, title) };
+      if (!title) entry.needsTitle = { verb, full, number, url }; // filled by enrichTitles()
+      return entry;
     }
     case "IssuesEvent": {
       const verb = { opened: "Opened", closed: "Closed", reopened: "Reopened" }[payload.action];
@@ -198,6 +208,25 @@ async function toEntry(event) {
     default:
       return null;
   }
+}
+
+// PR titles are no longer part of the trimmed events payload: fetch them for the
+// entries that actually render (a few calls per run). A failed fetch keeps the
+// title-less fallback line instead of breaking the section.
+async function enrichTitles(entries) {
+  const pending = entries.filter((entry) => entry.needsTitle);
+  await Promise.all(
+    pending.map(async (entry) => {
+      const { verb, full, number, url } = entry.needsTitle;
+      delete entry.needsTitle;
+      try {
+        const pr = await api(`/repos/${full}/pulls/${number}`);
+        if (pr.title) entry.text = prLine(verb, full, number, pr.html_url || url, pr.title);
+      } catch {
+        // deleted PR / rate limit: keep the fallback line
+      }
+    }),
+  );
 }
 
 function renderEntry(entry) {
@@ -241,7 +270,9 @@ async function renderActivity(events) {
     if (entry) candidates.push(entry);
     if (candidates.length >= MAX_CANDIDATES) break;
   }
-  const lines = mergeEntries(candidates).slice(0, MAX_LINES).map(renderEntry);
+  const picked = mergeEntries(candidates).slice(0, MAX_LINES);
+  await enrichTitles(picked); // only rendered PR lines pay the extra title fetch
+  const lines = picked.map(renderEntry);
   return lines.length ? lines.join("\n") : "_No recent public activity._";
 }
 
