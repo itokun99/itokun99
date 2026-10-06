@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): add source registry and provenance model" · _8 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): add source registry and provenance model" · _9 hours ago_
 - 🚀 Released [v1.1.1](https://github.com/itokun99/kiwari/releases/tag/v1.1.1) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _7 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _7 hours ago_
-- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _7 hours ago_
-- 🔀 Opened PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _7 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _8 hours ago_
+- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
+- 🔀 Opened PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): build model candidate catalog from live sources" · _8 hours ago_
 - 🔀 Merged PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
 - 🔀 Opened PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(mcpfile): add strict-JSON mcp.json editing session" · _8 hours ago_
-- 🔀 Merged PR [#4](https://github.com/itokun99/lazyomo/pull/4) "feat(mcpfile): strict-JSON mcp.json session + trimStart par…" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(mcpfile): add strict-JSON mcp.json editing session" · _9 hours ago_
+- 🔀 Merged PR [#4](https://github.com/itokun99/lazyomo/pull/4) "feat(mcpfile): strict-JSON mcp.json session + trimStart par…" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
