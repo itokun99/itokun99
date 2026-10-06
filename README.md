@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 minutes ago_
-- 🔀 Opened PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _10 minutes ago_
+- 📝 Pushed 7 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix(formula): add install and test blocks so brew install works" · _1 day ago_
+- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _24 minutes ago_
+- 🔀 Opened PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _25 minutes ago_
 - 📝 Pushed 3 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat: repurpose as lazyomo, a TUI editor for ~/.omo/omo.jsonc" · _1 day ago_
 - 🚀 Released [v1.1.1](https://github.com/itokun99/kiwari/releases/tag/v1.1.1) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _8 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _8 hours ago_
-- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
-- 🔀 Opened PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _8 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _9 hours ago_
+- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
+- 🔀 Opened PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(workspace): build model candidate catalog from live sources" · _9 hours ago_
 - 🔀 Merged PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
-- 🔀 Opened PR [#5](https://github.com/itokun99/lazyomo/pull/5) "feat(workspace): model candidate catalog from live sources" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _9 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
