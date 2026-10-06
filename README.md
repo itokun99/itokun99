@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "feat(senpi-task): honor agents.<name>.prompt_append on the native edi…" · _1 day ago_
 - 🗣️ Created discussion [#9637](https://github.com/code-yeongyu/oh-my-openagent/discussions/9637) "lazyomo — a lazygit-style TUI editor for your ~/.omo/omo.js…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _1 hour ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: refresh root AGENTS.md for the lazyomo editor architecture" · _8 hours ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump brace-expansion from 1.1.11 to 1.1.21 (#39)" · _9 hours ago_
@@ -23,8 +24,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _8 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _9 hours ago_
-- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _9 hours ago_
-- 🔀 Opened PR [#1](undefined) "" in [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) · _10 hours ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _10 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
