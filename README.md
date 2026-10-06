@@ -17,12 +17,12 @@ _Last 10 public events — refreshed automatically._
 <!--START_SECTION:activity-->
 - 📝 Pushed 1 commit to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`fix/9555-native-agent-prompt-append`) — "feat(senpi-task): honor agents.<name>.prompt_append on the native edi…" · _1 day ago_
 - 🗣️ Created discussion [#9637](https://github.com/code-yeongyu/oh-my-openagent/discussions/9637) "lazyomo — a lazygit-style TUI editor for your ~/.omo/omo.js…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _3 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: refresh root AGENTS.md for the lazyomo editor architecture" · _10 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: refresh root AGENTS.md for the lazyomo editor architecture" · _11 hours ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump brace-expansion from 1.1.11 to 1.1.21 (#39)" · _12 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: add AGENTS.md knowledge base (#1)" · _12 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "chore: add AGENTS.md knowledge base (#1)" · _13 hours ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/telegram-mcp-go/releases/tag/v0.1.0) in [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) · _9 hours ago_
 - 📝 Pushed 1 commit to [itokun99/dokploy](https://github.com/itokun99/dokploy) (`feat/ai-custom-headers`) — "fix(ai): address review feedback on custom headers" · _1 day ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _10 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: publish under the @itokun99 npm scope" · _11 hours ago_
 - 📝 Pushed 1 commit to [itokun99/lalajoanime](https://github.com/itokun99/lalajoanime) (`main`) — "feat(deploy): add Dokploy production stack" · _12 hours ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump browserslist from 4.7.0 to 4.29.1 (#36)" · _12 hours ago_
 <!--END_SECTION:activity-->
