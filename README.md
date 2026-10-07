@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _1 day ago_
 - 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _1 day ago_
 - 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _6 hours ago_
 - 🔀 Opened PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _6 hours ago_
@@ -23,8 +24,7 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Opened PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _7 hours ago_
 - 📝 Pushed 3 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat: repurpose as lazyomo, a TUI editor for ~/.omo/omo.jsonc" · _1 day ago_
 - 🚀 Released [v1.1.1](https://github.com/itokun99/kiwari/releases/tag/v1.1.1) in [itokun99/kiwari](https://github.com/itokun99/kiwari) · _15 hours ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _15 hours ago_
-- 🔀 Merged PR [#6](https://github.com/itokun99/lazyomo/pull/6) "feat(tui): workspace data layer + lazygit-parity layout" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _15 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "refactor(tui): consume workspace surfaces instead of single editor" · _16 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
