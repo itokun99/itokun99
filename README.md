@@ -89,18 +89,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | **Developer Tools** | Git · Neovim · Tmux · Ghostty · Fish Shell · LazyGit |
 
 ## Contact
-
-- Website — [indrawan.dev](https://indrawan.dev)
-- Email — [me@indrawan.dev](mailto:me@indrawan.dev)
-- LinkedIn — [indrawan-lisanto](https://www.linkedin.com/in/indrawan-lisanto)
-- X — [@indrawandev](https://x.com/indrawandev)
-- Threads — [@indrawandev](https://www.threads.com/@indrawandev)
-- Instagram — [@indrawandev](https://www.instagram.com/indrawandev)
-- TikTok — [@indrawandev](https://www.tiktok.com/@indrawandev)
-- YouTube — [@indrawandev](https://www.youtube.com/@indrawandev)
-- dev.to — [indrawandev](https://dev.to/indrawandev)
-- daily.dev — [indrawandev](https://app.daily.dev/indrawandev)
-- Telegram community — [join](https://t.me/+irfBjQR-yYFjYWFl)
+- Email — [vimcoder99@protonmail.com](mailto:vimcoder99@protonmail.com)
 
 ---
 
