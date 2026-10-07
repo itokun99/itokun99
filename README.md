@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: bump version to 3.1.0" · _15 hours ago_
+- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(fuzzy): add deterministic fuzzy matcher" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _1 day ago_
