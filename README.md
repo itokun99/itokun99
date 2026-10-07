@@ -23,8 +23,8 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _1 day ago_
 - 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _20 hours ago_
 - 🔀 Opened PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _20 hours ago_
-- 📝 Pushed 7 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix(formula): add install and test blocks so brew install works" · _1 day ago_
-- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _20 hours ago_
+- 📝 Pushed 7 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix(formula): add install and test blocks so brew install works" · _2 days ago_
+- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _21 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
