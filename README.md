@@ -36,8 +36,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 2. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 3. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 2 commits · 🚀 2 releases
 4. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
-5. [**hudang**](https://github.com/itokun99/hudang) — 📝 1 commit
-6. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
+5. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
