@@ -20,7 +20,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(fuzzy): add deterministic fuzzy matcher" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _1 day ago_
+- 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _2 days ago_
 - 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _2 days ago_
 - 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _22 hours ago_
 - 🔀 Opened PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _22 hours ago_
@@ -36,7 +36,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 2. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 3. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 2 commits · 🚀 2 releases
 4. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
-5. [**hudang**](https://github.com/itokun99/hudang) — 📝 2 commits
+5. [**hudang**](https://github.com/itokun99/hudang) — 📝 1 commit
 6. [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
