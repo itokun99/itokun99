@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Remove Contact" · _5 hours ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(fuzzy): add deterministic fuzzy matcher" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _1 day ago_
@@ -23,8 +24,7 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _17 hours ago_
 - 🔀 Opened PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _17 hours ago_
 - 📝 Pushed 7 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "fix(formula): add install and test blocks so brew install works" · _1 day ago_
-- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _17 hours ago_
-- 🔀 Opened PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _17 hours ago_
+- 🔀 Merged PR [#7](https://github.com/itokun99/lazyomo/pull/7) "feat(tui): MCP tools + read-only provider/catalog panes" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _18 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -33,7 +33,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 30 commits · 🔀 8 PRs
-2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 7 commits · 🚀 3 releases
+2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 4 commits · 🚀 2 releases
 3. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 4. [**hudang**](https://github.com/itokun99/hudang) — 📝 3 commits
 5. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
