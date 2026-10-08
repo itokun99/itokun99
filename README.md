@@ -16,13 +16,13 @@ _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _5 hours ago_
-- 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _5 hours ago_
+- 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _6 hours ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "lazyomo 3.1.0" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Remove Contact" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(fuzzy): add deterministic fuzzy matcher" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _2 days ago_
-- 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _2 days ago_
+- 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _3 days ago_
 - 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _3 days ago_
 - 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _1 day ago_
 <!--END_SECTION:activity-->
