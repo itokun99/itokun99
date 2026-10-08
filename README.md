@@ -15,7 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _10 hours ago_
+- 📝 Pushed 1 commit to [itokun99/dailydev-mcp](https://github.com/itokun99/dailydev-mcp) (`main`) — "Add M8ven Score badges to README" · _5 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _11 hours ago_
 - 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _11 hours ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "lazyomo 3.1.0" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Remove Contact" · _1 day ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _3 days ago_
 - 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _3 days ago_
-- 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _2 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -36,6 +36,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 2. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
 3. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 2 commits · 🚀 2 releases
 4. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
+5. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
