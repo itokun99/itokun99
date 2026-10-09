@@ -48,7 +48,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
-| [**lazyroute**](https://github.com/itokun99/lazyroute) | TUI Lazy AI Gateway Router Like Omniroute and 9router |
+| [**panto**](https://github.com/itokun99/panto) | TUI Lazy AI Gateway Router Like Omniroute and 9router |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**lalajoanime**](https://github.com/itokun99/lalajoanime) | Anime streaming & download portal — Vite + React + TypeScript + Tailwind + shadcn in a neoterminal … |
