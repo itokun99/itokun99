@@ -15,8 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/dailydev-mcp](https://github.com/itokun99/dailydev-mcp) (`main`) — "Add M8ven Score badges to README" · _12 hours ago_
-- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _23 hours ago_
+- 📝 Pushed 1 commit to [itokun99/dailydev-mcp](https://github.com/itokun99/dailydev-mcp) (`main`) — "Add M8ven Score badges to README" · _13 hours ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _1 day ago_
 - 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "lazyomo 3.1.0" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Remove Contact" · _2 days ago_
@@ -48,6 +48,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
+| [**lazyroute**](https://github.com/itokun99/lazyroute) | TUI Lazy AI Gateway Router Like Omniroute and 9router |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**lalajoanime**](https://github.com/itokun99/lalajoanime) | Anime streaming & download portal — Vite + React + TypeScript + Tailwind + shadcn in a neoterminal … |
