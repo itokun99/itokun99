@@ -24,7 +24,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _4 days ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _4 days ago_
 - 📝 Pushed 1 commit to [itokun99/telegram-mcp-go](https://github.com/itokun99/telegram-mcp-go) (`main`) — "Port to Go: gogram + MCP go-sdk, 132-tool parity" · _4 days ago_
-- 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _4 days ago_
+- 📝 Pushed 5 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: normalize package manifest (npm pkg fix)" · _5 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
