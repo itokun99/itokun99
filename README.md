@@ -15,6 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: ignore omo tooling artifacts" · _6 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "chore: update lazyomo to v3.2.0" · _7 minutes ago_
 - 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 hours ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _4 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update jawaban algoritma" · _6 hours ago_
@@ -23,8 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 days ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "lazyomo 3.1.0" · _5 days ago_
 - 📝 Pushed 1 commit to [itokun99/itokun99](https://github.com/itokun99/itokun99) (`main`) — "Remove Contact" · _5 days ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat(fuzzy): add deterministic fuzzy matcher" · _6 days ago_
-- 📝 Pushed 1 commit to [itokun99/kiwari](https://github.com/itokun99/kiwari) (`main`) — "fix: rebuild PR lines after the GitHub events API payload trim" · _6 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 25 commits · 🔀 8 PRs
+1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 26 commits · 🔀 8 PRs
 2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 1 commit · 🚀 1 release
 3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
 4. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
