@@ -15,8 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _39 minutes ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _42 minutes ago_
+- 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _54 minutes ago_
+- 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _57 minutes ago_
 - 📝 Pushed 2 commits to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update jawaban algoritma" · _2 hours ago_
 - 📝 Pushed 1 commit to [itokun99/dailydev-mcp](https://github.com/itokun99/dailydev-mcp) (`main`) — "Add M8ven Score badges to README" · _3 days ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _4 days ago_
@@ -34,10 +34,9 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 <!--START_SECTION:weekly-->
 1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 32 commits · 🔀 8 PRs
 2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 1 commit · 🚀 1 release
-3. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 2 commits
-4. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
-5. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
-6. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
+3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
+4. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
+5. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
