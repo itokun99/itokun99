@@ -33,7 +33,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 30 commits · 🔀 8 PRs
-2. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 5 commits · 🔀 1 PR
+2. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 4 commits · 🔀 1 PR
 3. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
 4. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 1 commit · 🚀 1 release
 5. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
