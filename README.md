@@ -17,7 +17,7 @@ _Last 10 public events — refreshed automatically._
 <!--START_SECTION:activity-->
 - 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _1 hour ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 hour ago_
-- 📝 Pushed 2 commits to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update jawaban algoritma" · _2 hours ago_
+- 📝 Pushed 2 commits to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update jawaban algoritma" · _3 hours ago_
 - 📝 Pushed 1 commit to [itokun99/dailydev-mcp](https://github.com/itokun99/dailydev-mcp) (`main`) — "Add M8ven Score badges to README" · _3 days ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _4 days ago_
 - 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _4 days ago_
@@ -32,11 +32,10 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 32 commits · 🔀 8 PRs
+1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 31 commits · 🔀 8 PRs
 2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 1 commit · 🚀 1 release
 3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
 4. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
-5. [**lalajoanime**](https://github.com/itokun99/lalajoanime) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
