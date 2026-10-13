@@ -16,7 +16,7 @@ _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: update formula for v3.2.0" · _19 hours ago_
-- 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "chore: update lazyomo to v3.2.0" · _14 hours ago_
+- 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "chore: update lazyomo to v3.2.0" · _15 hours ago_
 - 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _19 hours ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _19 hours ago_
 - 📝 Pushed 2 commits to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update jawaban algoritma" · _21 hours ago_
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 17 commits · 🔀 3 PRs
+1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 15 commits · 🔀 2 PRs
 2. [**kiwari**](https://github.com/itokun99/kiwari) — 📝 1 commit · 🚀 1 release
 3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
 4. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
