@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 7 commits · 🔀 1 PR
+1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 6 commits
 2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
 3. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
 <!--END_SECTION:weekly-->
