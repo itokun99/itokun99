@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump shell-quote from 1.10.0 to 1.12.0 (#40)" · _34 minutes ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat: improve tui editing flows" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update tugas transformasi digital" · _2 days ago_
 - 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: update formula for v3.2.0" · _2 days ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update jawaban algoritma" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/dailydev-mcp](https://github.com/itokun99/dailydev-mcp) (`main`) — "Add M8ven Score badges to README" · _5 days ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "docs: add preview.gif to README" · _6 days ago_
-- 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _6 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -34,7 +34,8 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 <!--START_SECTION:weekly-->
 1. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 4 commits
 2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit · 🚀 1 release
-3. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
+3. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
+4. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
