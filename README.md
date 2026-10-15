@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 hours ago_
+- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 hours ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 hours ago_
 - 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 hours ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/cloviela-router/issues/1) "Need portal admin, contact usnya gak ada bjir" in [clovieflow/cloviela-router](https://github.com/clovieflow/cloviela-router) · _16 hours ago_
@@ -35,7 +35,6 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 5 commits · 🔀 1 PR · 🚀 2 releases
 2. [**lazyomo**](https://github.com/itokun99/lazyomo) — 📝 3 commits
 3. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
-4. [**dailydev-mcp**](https://github.com/itokun99/dailydev-mcp) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
