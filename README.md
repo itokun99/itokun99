@@ -23,8 +23,8 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump shell-quote from 1.10.0 to 1.12.0 (#40)" · _3 days ago_
 - 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "feat: improve tui editing flows" · _5 days ago_
 - 📝 Pushed 1 commit to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "update tugas transformasi digital" · _5 days ago_
-- 📝 Pushed 2 commits to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: update formula for v3.2.0" · _5 days ago_
-- 📝 Pushed 1 commit to [itokun99/homebrew-lazyomo](https://github.com/itokun99/homebrew-lazyomo) (`main`) — "chore: update lazyomo to v3.2.0" · _5 days ago_
+- 📝 Pushed 1 commit to [itokun99/lazyomo](https://github.com/itokun99/lazyomo) (`main`) — "chore: update formula for v3.2.0" · _5 days ago_
+- 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _5 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -47,7 +47,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | Repository | Description |
 | --- | --- |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
-| [**lazyomo**](https://github.com/itokun99/lazyomo) ⭐ 1 | Supported multiple config for Opencode + Oh My Openagent |
+| [**lazyomo**](https://github.com/itokun99/lazyomo) ⭐ 2 | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**lalajoanime**](https://github.com/itokun99/lalajoanime) | Anime streaming & download portal — Vite + React + TypeScript + Tailwind + shadcn in a neoterminal … |
 | [**my-personal-branding**](https://github.com/itokun99/my-personal-branding) | Personal branding archive - CV, bios, portfolio, social records, brand assets |
