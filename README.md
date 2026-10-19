@@ -22,8 +22,8 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/cloviela-router/issues/1) "Need portal admin, contact usnya gak ada bjir" in [clovieflow/cloviela-router](https://github.com/clovieflow/cloviela-router) · _4 days ago_
-- 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _6 days ago_
-- 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
+- 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _7 days ago_
+- 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
 - 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _11 days ago_
 <!--END_SECTION:activity-->
 
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 16 commits · 🔀 2 PRs · 🚀 2 releases
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 16 commits · 🔀 2 PRs · 🚀 1 release
 <!--END_SECTION:weekly-->
 
 ## Projects
