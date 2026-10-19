@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _15 hours ago_
-- 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _15 hours ago_
+- 📝 Pushed 11 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat(config): add wildcard and default route resolution" · _16 hours ago_
+- 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _16 hours ago_
+- 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _16 hours ago_
 - 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/cloviela-router/issues/1) "Need portal admin, contact usnya gak ada bjir" in [clovieflow/cloviela-router](https://github.com/clovieflow/cloviela-router) · _4 days ago_
 - 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _6 days ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
-- 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _10 days ago_
-- 🔀 Merged PR [#8](https://github.com/itokun99/lazyomo/pull/8) "feat(tui): fuzzy model picker + spec v2 docs" in [itokun99/lazyomo](https://github.com/itokun99/lazyomo) · _12 days ago_
+- 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _11 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
