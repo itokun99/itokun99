@@ -15,7 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 11 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat(config): add wildcard and default route resolution" · _1 day ago_
+- 🚀 Released [v0.2.0](https://github.com/itokun99/miwarang/releases/tag/v0.2.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 minutes ago_
+- 📝 Pushed 13 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add run progress surfaces and dag watch bridge" · _12 minutes ago_
 - 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _4 days ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🐛 Opened issue [#1](https://github.com/clovieflow/cloviela-router/issues/1) "Need portal admin, contact usnya gak ada bjir" in [clovieflow/cloviela-router](https://github.com/clovieflow/cloviela-router) · _5 days ago_
 - 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _7 days ago_
 - 🚀 Released [v0.1.0](https://github.com/itokun99/miwarang/releases/tag/v0.1.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
-- 🐛 Opened issue [#9753](https://github.com/code-yeongyu/oh-my-openagent/issues/9753) "[Feature]: Resource-aware admission control - validate free…" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _12 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 16 commits · 🔀 2 PRs · 🚀 1 release
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 18 commits · 🔀 2 PRs · 🚀 2 releases
 <!--END_SECTION:weekly-->
 
 ## Projects
