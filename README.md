@@ -21,7 +21,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 13 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add run progress surfaces and dag watch bridge" · _1 day ago_
 - 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
-- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
+- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/cloviela-router/issues/1) "Need portal admin, contact usnya gak ada bjir" in [clovieflow/cloviela-router](https://github.com/clovieflow/cloviela-router) · _6 days ago_
@@ -33,7 +33,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 18 commits · 🔀 2 PRs · 🚀 2 releases
-2. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 3 commits
+2. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
 <!--END_SECTION:weekly-->
 
 ## Projects
