@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 🚀 Released [v0.3.0](https://github.com/itokun99/miwarang/releases/tag/v0.3.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 minute ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump follow-redirects from 1.16.0 to 1.16.1 (#42)" · _23 hours ago_
 - 🐛 Opened issue [#2](https://github.com/clovieflow/cloviela-router/issues/2) "Response agent bocor" in [clovieflow/cloviela-router](https://github.com/clovieflow/cloviela-router) · _13 hours ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump launch-editor from 2.14.1 to 2.14.2 (#43)" · _13 hours ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
-- 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 18 commits · 🔀 2 PRs · 🚀 2 releases
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 20 commits · 🔀 2 PRs · 🚀 3 releases
 2. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
 <!--END_SECTION:weekly-->
 
