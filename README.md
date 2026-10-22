@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 20 commits · 🔀 2 PRs · 🚀 3 releases
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 19 commits · 🔀 2 PRs · 🚀 3 releases
 2. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
 <!--END_SECTION:weekly-->
 
