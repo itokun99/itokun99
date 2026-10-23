@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 🐛 Opened issue [#1](https://github.com/clovieflow/rikkarouter/issues/1) "Bro https://router.cloviela.my.id/ gk bisa di akses kah? la…" in [clovieflow/rikkarouter](https://github.com/clovieflow/rikkarouter) · _14 minutes ago_
 - 🚀 Released [v0.3.0](https://github.com/itokun99/miwarang/releases/tag/v0.3.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump follow-redirects from 1.16.0 to 1.16.1 (#42)" · _3 days ago_
 - 🚀 Released [v0.2.0](https://github.com/itokun99/miwarang/releases/tag/v0.2.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
 - 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
-- 🗣️ Created discussion [#10058](https://github.com/code-yeongyu/oh-my-openagent/discussions/10058) "Miwarang Senpi Delegate: OpenCode free-tier delegation" in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) · _11 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
