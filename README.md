@@ -15,11 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Merged PR [#3](https://github.com/itokun99/indrawandev/pull/3) "fix: add vercel.json for Astro framework detection" in [itokun99/indrawandev](https://github.com/itokun99/indrawandev) · _28 days ago_
-- 🔀 Opened PR [#3](https://github.com/itokun99/indrawandev/pull/3) "fix: add vercel.json for Astro framework detection" in [itokun99/indrawandev](https://github.com/itokun99/indrawandev) · _28 days ago_
-- 🔀 Merged PR [#2](https://github.com/itokun99/indrawandev/pull/2) "feat: astro migration - fix build errors" in [itokun99/indrawandev](https://github.com/itokun99/indrawandev) · _28 days ago_
-- 🔀 Opened PR [#2](https://github.com/itokun99/indrawandev/pull/2) "feat: astro migration - fix build errors" in [itokun99/indrawandev](https://github.com/itokun99/indrawandev) · _28 days ago_
-- 🔀 Opened PR [#82](https://github.com/imsi32/yatline.yazi/pull/82) "[FIX] Replace deprecated File:icon() with th.icon:match()" in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi) · _29 days ago_
+- 🐛 Opened issue [#1](https://github.com/clovieflow/rikkarouter/issues/1) "Bro https://router.cloviela.my.id/ gk bisa di akses kah? la…" in [clovieflow/rikkarouter](https://github.com/clovieflow/rikkarouter) · _2 days ago_
+- 🚀 Released [v0.3.0](https://github.com/itokun99/miwarang/releases/tag/v0.3.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _4 days ago_
+- 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump follow-redirects from 1.16.0 to 1.16.1 (#42)" · _5 days ago_
+- 🚀 Released [v0.2.0](https://github.com/itokun99/miwarang/releases/tag/v0.2.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
+- 📝 Pushed 13 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add run progress surfaces and dag watch bridge" · _6 days ago_
+- 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
+- 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
+- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 days ago_
+- 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 days ago_
+- 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -27,7 +32,8 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-_No public activity this week._
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 4 commits · 🚀 2 releases
+2. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 2 commits
 <!--END_SECTION:weekly-->
 
 ## Projects
