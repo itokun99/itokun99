@@ -22,7 +22,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 13 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add run progress surfaces and dag watch bridge" · _7 days ago_
 - 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
 - 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
-- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 days ago_
+- 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 days ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 days ago_
 - 🚀 Released [v0.1.1](https://github.com/itokun99/miwarang/releases/tag/v0.1.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 days ago_
 <!--END_SECTION:activity-->
