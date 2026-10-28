@@ -33,7 +33,6 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 2 commits · 🚀 1 release
-2. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
