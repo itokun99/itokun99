@@ -21,8 +21,8 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump follow-redirects from 1.16.0 to 1.16.1 (#42)" · _7 days ago_
 - 🚀 Released [v0.2.0](https://github.com/itokun99/miwarang/releases/tag/v0.2.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
 - 📝 Pushed 13 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add run progress surfaces and dag watch bridge" · _8 days ago_
-- 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _9 days ago_
-- 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _9 days ago_
+- 🔀 Merged PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _10 days ago_
+- 🔀 Opened PR [#2](https://github.com/itokun99/miwarang/pull/2) "feat: multi-harness routing for all OMO categories" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _10 days ago_
 - 🔀 Merged PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _13 days ago_
 - 🔀 Opened PR [#1](https://github.com/itokun99/miwarang/pull/1) "docs: add root AGENTS.md knowledge base" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _13 days ago_
 <!--END_SECTION:activity-->
