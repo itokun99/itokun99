@@ -16,7 +16,7 @@ _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
 - 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "chore: move brew formula to homebrew-gowebp tap" · _18 hours ago_
-- 📝 Pushed 1 commit to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix libexec.install glob syntax (require trailing /*)" · _18 hours ago_
+- 📝 Pushed 1 commit to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix libexec.install glob syntax (require trailing /*)" · _19 hours ago_
 - 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "feat: port package to Go as gowebp with CLI + Homebrew formula" · _19 hours ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/gowebp/releases/tag/v1.0.0) in [itokun99/gowebp](https://github.com/itokun99/gowebp) · _19 hours ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/rikkarouter/issues/1) "Bro https://router.cloviela.my.id/ gk bisa di akses kah? la…" in [clovieflow/rikkarouter](https://github.com/clovieflow/rikkarouter) · _5 days ago_
