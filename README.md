@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🚀 Released [v0.4.0](https://github.com/itokun99/miwarang/releases/tag/v0.4.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 hours ago_
-- 🔀 Merged PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 hours ago_
-- 🔀 Opened PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _11 hours ago_
+- 🚀 Released [v0.1.0](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.1.0) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _just now_
+- 🚀 Released [v0.4.0](https://github.com/itokun99/miwarang/releases/tag/v0.4.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 hours ago_
+- 🔀 Merged PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 hours ago_
+- 🔀 Opened PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _12 hours ago_
 - 📝 Pushed 2 commits to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix: quote WEBP_CONVERTER_BIN_DIR as string key" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "chore: move brew formula to homebrew-gowebp tap" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix libexec.install glob syntax (require trailing /*)" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "feat: port package to Go as gowebp with CLI + Homebrew formula" · _1 day ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/gowebp/releases/tag/v1.0.0) in [itokun99/gowebp](https://github.com/itokun99/gowebp) · _1 day ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/rikkarouter/issues/1) "Bro https://router.cloviela.my.id/ gk bisa di akses kah? la…" in [clovieflow/rikkarouter](https://github.com/clovieflow/rikkarouter) · _5 days ago_
-- 🚀 Released [v0.3.0](https://github.com/itokun99/miwarang/releases/tag/v0.3.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -33,6 +33,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 2 commits · 🔀 1 PR · 🚀 1 release
+2. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 1 commit · 🚀 1 release
 <!--END_SECTION:weekly-->
 
 ## Projects
