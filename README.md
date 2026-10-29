@@ -19,7 +19,7 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Merged PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 hour ago_
 - 🔀 Opened PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 hour ago_
 - 📝 Pushed 2 commits to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix: quote WEBP_CONVERTER_BIN_DIR as string key" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "chore: move brew formula to homebrew-gowebp tap" · _23 hours ago_
+- 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "chore: move brew formula to homebrew-gowebp tap" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix libexec.install glob syntax (require trailing /*)" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "feat: port package to Go as gowebp with CLI + Homebrew formula" · _1 day ago_
 - 🚀 Released [v1.0.0](https://github.com/itokun99/gowebp/releases/tag/v1.0.0) in [itokun99/gowebp](https://github.com/itokun99/gowebp) · _1 day ago_
