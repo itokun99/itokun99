@@ -15,6 +15,9 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 🚀 Released [v0.4.0](https://github.com/itokun99/miwarang/releases/tag/v0.4.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _4 minutes ago_
+- 🔀 Merged PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _4 minutes ago_
+- 🔀 Opened PR [#3](https://github.com/itokun99/miwarang/pull/3) "feat: add cross-backend fallback routes" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 minutes ago_
 - 📝 Pushed 2 commits to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix: quote WEBP_CONVERTER_BIN_DIR as string key" · _23 hours ago_
 - 📝 Pushed 1 commit to [itokun99/gowebp](https://github.com/itokun99/gowebp) (`master`) — "chore: move brew formula to homebrew-gowebp tap" · _22 hours ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Fix libexec.install glob syntax (require trailing /*)" · _23 hours ago_
@@ -22,9 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🚀 Released [v1.0.0](https://github.com/itokun99/gowebp/releases/tag/v1.0.0) in [itokun99/gowebp](https://github.com/itokun99/gowebp) · _23 hours ago_
 - 🐛 Opened issue [#1](https://github.com/clovieflow/rikkarouter/issues/1) "Bro https://router.cloviela.my.id/ gk bisa di akses kah? la…" in [clovieflow/rikkarouter](https://github.com/clovieflow/rikkarouter) · _5 days ago_
 - 🚀 Released [v0.3.0](https://github.com/itokun99/miwarang/releases/tag/v0.3.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
-- 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump follow-redirects from 1.16.0 to 1.16.1 (#42)" · _8 days ago_
-- 🚀 Released [v0.2.0](https://github.com/itokun99/miwarang/releases/tag/v0.2.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 days ago_
-- 📝 Pushed 13 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add run progress surfaces and dag watch bridge" · _8 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-_No public activity this week._
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 2 commits · 🔀 1 PR · 🚀 1 release
 <!--END_SECTION:weekly-->
 
 ## Projects
