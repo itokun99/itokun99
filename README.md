@@ -15,15 +15,15 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add cross-backend fallback routes" · _1 day ago_
-- 🚀 Released [v0.2.2](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.2) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _14 hours ago_
-- 🚀 Released [v0.6.0](https://github.com/itokun99/miwarang/releases/tag/v0.6.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _14 hours ago_
-- 🔀 Merged PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _14 hours ago_
-- 🔀 Opened PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _14 hours ago_
-- 🚀 Released [v0.2.1](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.1) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _17 hours ago_
-- 🚀 Released [v0.5.0](https://github.com/itokun99/miwarang/releases/tag/v0.5.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _17 hours ago_
-- 🔀 Merged PR [#4](https://github.com/itokun99/miwarang/pull/4) "fix: complete background fallback chain" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _17 hours ago_
-- 🔀 Opened PR [#4](https://github.com/itokun99/miwarang/pull/4) "fix: complete background fallback chain" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _17 hours ago_
+- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add cross-backend fallback routes" · _2 days ago_
+- 🚀 Released [v0.2.2](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.2) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _21 hours ago_
+- 🚀 Released [v0.6.0](https://github.com/itokun99/miwarang/releases/tag/v0.6.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _21 hours ago_
+- 🔀 Merged PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _21 hours ago_
+- 🔀 Opened PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _21 hours ago_
+- 🚀 Released [v0.2.1](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.1) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _1 day ago_
+- 🚀 Released [v0.5.0](https://github.com/itokun99/miwarang/releases/tag/v0.5.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🔀 Merged PR [#4](https://github.com/itokun99/miwarang/pull/4) "fix: complete background fallback chain" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🔀 Opened PR [#4](https://github.com/itokun99/miwarang/pull/4) "fix: complete background fallback chain" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/homebrew-gowebp](https://github.com/itokun99/homebrew-gowebp) (`main`) — "Simplify install: mkpath + explicit install, avoid Dir hash" · _2 days ago_
 <!--END_SECTION:activity-->
 
