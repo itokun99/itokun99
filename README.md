@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 4 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: remove DAG watch bridge" · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: remove DAG watcher guidance" · _1 day ago_
-- 📝 Pushed 5 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "fix: keep backend model selection harness-specific" · _1 day ago_
-- 🚀 Released [v0.2.2](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.2) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _1 day ago_
-- 🚀 Released [v0.6.0](https://github.com/itokun99/miwarang/releases/tag/v0.6.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
-- 🔀 Merged PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
-- 🔀 Opened PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
-- 🚀 Released [v0.2.1](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.1) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _1 day ago_
-- 🚀 Released [v0.5.0](https://github.com/itokun99/miwarang/releases/tag/v0.5.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
-- 🔀 Merged PR [#4](https://github.com/itokun99/miwarang/pull/4) "fix: complete background fallback chain" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 📝 Pushed 2 commits to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: expand Miwarang delegation skill guidance" · _2 days ago_
+- 📝 Pushed 4 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: remove DAG watch bridge" · _2 days ago_
+- 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: remove DAG watcher guidance" · _2 days ago_
+- 📝 Pushed 5 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "fix: keep backend model selection harness-specific" · _2 days ago_
+- 🚀 Released [v0.2.2](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.2) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _2 days ago_
+- 🚀 Released [v0.6.0](https://github.com/itokun99/miwarang/releases/tag/v0.6.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
+- 🔀 Merged PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
+- 🔀 Opened PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
+- 🚀 Released [v0.2.1](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.1) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _2 days ago_
+- 🚀 Released [v0.5.0](https://github.com/itokun99/miwarang/releases/tag/v0.5.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
