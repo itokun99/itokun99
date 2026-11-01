@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`fix/cross-backend-fallback`) — "fix: keep backend model selection harness-specific" · _1 day ago_
+- 📝 Pushed 4 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: remove DAG watch bridge" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: remove DAG watcher guidance" · _1 day ago_
 - 📝 Pushed 5 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "fix: keep backend model selection harness-specific" · _1 day ago_
 - 🚀 Released [v0.2.2](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.2) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _1 day ago_
