@@ -15,6 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
+- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`fix/cross-backend-fallback`) — "feat: remove DAG watch bridge" · _2 days ago_
 - 📝 Pushed 2 commits to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: expand Miwarang delegation skill guidance" · _2 days ago_
 - 📝 Pushed 4 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: remove DAG watch bridge" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: remove DAG watcher guidance" · _2 days ago_
@@ -24,7 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🔀 Merged PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 🔀 Opened PR [#5](https://github.com/itokun99/miwarang/pull/5) "feat: remove DAG watch bridge" in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 🚀 Released [v0.2.1](https://github.com/itokun99/omo-miwarang-delegation-skill/releases/tag/v0.2.1) in [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) · _2 days ago_
-- 🚀 Released [v0.5.0](https://github.com/itokun99/miwarang/releases/tag/v0.5.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -45,6 +45,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
+| [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) ⭐ 2 | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
@@ -53,7 +54,6 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | [**hudang**](https://github.com/itokun99/hudang) | A tiny scheduler that wakes your GitHub Actions workflows when GitHub's own schedule trigger won't … |
 | [**blogger-mcp**](https://github.com/itokun99/blogger-mcp) | MCP stdio server for the Blogger v3 REST API - 32 tools for AI-assisted blog development: posts, pa… · [blogger-mcp.indrawan.dev](https://blogger-mcp.indrawan.dev/) |
 | [**blogger-go**](https://github.com/itokun99/blogger-go) | Go SDK for the Blogger API v3, layered over Google's official client: chainable builders, typed err… · [blogger-go.indrawan.dev](https://blogger-go.indrawan.dev/) |
-| [**codepelajar**](https://github.com/itokun99/codepelajar) | Codepelajar web app - Next.js + Redux (SASS) frontend with an Express + Sequelize (MySQL) backend. |
 | [**react-blogger-api**](https://github.com/itokun99/react-blogger-api) | Fully-typed React hooks and Context provider for the Blogger API v3 - 33 hooks, Zod-validated respo… |
 | [**indrawandev**](https://github.com/itokun99/indrawandev) | My Personal Website build with v0 · [indrawan.dev](https://indrawan.dev/) |
 | [**superspec-ai-workflow**](https://github.com/itokun99/superspec-ai-workflow) ⭐ 2 | 🚀 AI-driven development workflow blueprint for multi-platform monorepos. Powered by OpenCode, OMO,… |
