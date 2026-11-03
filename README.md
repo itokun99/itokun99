@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🚀 Released [v0.6.2](https://github.com/itokun99/miwarang/releases/tag/v0.6.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 minutes ago_
+- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "docs: refresh init-deep guidance" · _7 hours ago_
+- 📝 Pushed 4 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump browserslist from 4.16.6 to 4.28.8" · _1 day ago_
+- 🚀 Released [v0.6.2](https://github.com/itokun99/miwarang/releases/tag/v0.6.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 hours ago_
 - 📝 Pushed 8 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump next from 15.5.18 to 15.5.24 in /frontend" · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump node-forge from 1.4.0 to 1.4.2 (#46)" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump shell-quote from 1.6.1 to 1.10.0" · _1 day ago_
 - 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump fast-uri from 3.1.8 to 3.1.9 (#44)" · _1 day ago_
 - 🚀 Released [v0.6.1](https://github.com/itokun99/miwarang/releases/tag/v0.6.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
-- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`fix/cross-backend-fallback`) — "feat: remove DAG watch bridge" · _3 days ago_
+- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`fix/cross-backend-fallback`) — "feat: remove DAG watch bridge" · _4 days ago_
 - 📝 Pushed 2 commits to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: expand Miwarang delegation skill guidance" · _4 days ago_
-- 📝 Pushed 4 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: remove DAG watch bridge" · _3 days ago_
-- 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "feat: remove DAG watcher guidance" · _3 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -34,7 +34,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 <!--START_SECTION:weekly-->
 1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 10 commits · 🔀 3 PRs · 🚀 5 releases
 2. [**codepelajar**](https://github.com/itokun99/codepelajar) — 📝 11 commits
-3. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 4 commits · 🚀 3 releases
+3. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 5 commits · 🚀 3 releases
 4. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 3 commits
 <!--END_SECTION:weekly-->
 
