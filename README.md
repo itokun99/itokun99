@@ -34,7 +34,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 <!--START_SECTION:weekly-->
 1. [**codepelajar**](https://github.com/itokun99/codepelajar) — 📝 21 commits
 2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 8 commits · 🔀 2 PRs · 🚀 4 releases
-3. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 5 commits · 🚀 3 releases
+3. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 4 commits · 🚀 2 releases
 4. [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) — 📝 3 commits
 <!--END_SECTION:weekly-->
 
