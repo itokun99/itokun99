@@ -18,7 +18,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump pbkdf2 from 3.0.17 to 3.1.7" · _4 days ago_
 - 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "docs: align delegation skill with harness routing" · _5 days ago_
 - 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump brace-expansion from 1.1.18 to 1.1.21" · _4 days ago_
-- 📝 Pushed 3 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.6.1" · _6 days ago_
+- 📝 Pushed 3 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.6.1" · _7 days ago_
 - 📝 Pushed 4 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump browserslist from 4.16.6 to 4.28.8" · _7 days ago_
 - 🚀 Released [v0.6.2](https://github.com/itokun99/miwarang/releases/tag/v0.6.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
 - 📝 Pushed 8 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump next from 15.5.18 to 15.5.24 in /frontend" · _7 days ago_
@@ -33,7 +33,7 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**codepelajar**](https://github.com/itokun99/codepelajar) — 📝 6 commits
-2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 3 commits · 🚀 2 releases
+2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 2 commits · 🚀 1 release
 3. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
