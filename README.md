@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump pbkdf2 from 3.0.17 to 3.1.7" · _5 days ago_
-- 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "docs: align delegation skill with harness routing" · _6 days ago_
-- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump brace-expansion from 1.1.18 to 1.1.21" · _5 days ago_
+- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump pbkdf2 from 3.0.17 to 3.1.7" · _6 days ago_
+- 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "docs: align delegation skill with harness routing" · _7 days ago_
+- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump brace-expansion from 1.1.18 to 1.1.21" · _6 days ago_
 - 📝 Pushed 3 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.6.1" · _8 days ago_
-- 📝 Pushed 4 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump browserslist from 4.16.6 to 4.28.8" · _8 days ago_
+- 📝 Pushed 4 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump browserslist from 4.16.6 to 4.28.8" · _9 days ago_
 - 🚀 Released [v0.6.2](https://github.com/itokun99/miwarang/releases/tag/v0.6.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
-- 📝 Pushed 8 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump next from 15.5.18 to 15.5.24 in /frontend" · _8 days ago_
-- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump node-forge from 1.4.0 to 1.4.2 (#46)" · _8 days ago_
-- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump shell-quote from 1.6.1 to 1.10.0" · _8 days ago_
-- 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump fast-uri from 3.1.8 to 3.1.9 (#44)" · _8 days ago_
+- 📝 Pushed 8 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump next from 15.5.18 to 15.5.24 in /frontend" · _9 days ago_
+- 📝 Pushed 1 commit to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump node-forge from 1.4.0 to 1.4.2 (#46)" · _9 days ago_
+- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump shell-quote from 1.6.1 to 1.10.0" · _9 days ago_
+- 📝 Pushed 2 commits to [itokun99/codepelajar-react](https://github.com/itokun99/codepelajar-react) (`main`) — "Bump fast-uri from 3.1.8 to 3.1.9 (#44)" · _9 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -33,7 +33,6 @@ _Most active public repositories in the last 7 days — refreshed automatically.
 
 <!--START_SECTION:weekly-->
 1. [**codepelajar**](https://github.com/itokun99/codepelajar) — 📝 6 commits
-2. [**omo-miwarang-delegation-skill**](https://github.com/itokun99/omo-miwarang-delegation-skill) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
