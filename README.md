@@ -15,8 +15,8 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add a koma sdk backend" · _1 day ago_
-- 🚀 Released [v0.7.0](https://github.com/itokun99/miwarang/releases/tag/v0.7.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add a koma sdk backend" · _2 days ago_
+- 🚀 Released [v0.7.0](https://github.com/itokun99/miwarang/releases/tag/v0.7.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump pbkdf2 from 3.0.17 to 3.1.7" · _8 days ago_
 - 📝 Pushed 1 commit to [itokun99/omo-miwarang-delegation-skill](https://github.com/itokun99/omo-miwarang-delegation-skill) (`main`) — "docs: align delegation skill with harness routing" · _9 days ago_
 - 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump brace-expansion from 1.1.18 to 1.1.21" · _8 days ago_
