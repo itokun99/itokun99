@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 3 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "docs: center README on the npm installer" · _10 hours ago_
-- 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _10 hours ago_
-- 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _10 hours ago_
-- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: ship native host integrations for OpenCode V2, Pi, and OMP" · _15 hours ago_
-- 🚀 Released [v0.10.0](https://github.com/itokun99/miwarang/releases/tag/v0.10.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _15 hours ago_
-- 🚀 Released [v0.9.3](https://github.com/itokun99/miwarang/releases/tag/v0.9.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _16 hours ago_
-- 🚀 Released [v0.9.2](https://github.com/itokun99/miwarang/releases/tag/v0.9.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _16 hours ago_
-- 🚀 Released [v0.9.1](https://github.com/itokun99/miwarang/releases/tag/v0.9.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _18 hours ago_
-- 🚀 Released [v0.9.0](https://github.com/itokun99/miwarang/releases/tag/v0.9.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _21 hours ago_
-- 🚀 Released [v0.8.0](https://github.com/itokun99/miwarang/releases/tag/v0.8.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _21 hours ago_
+- 📝 Pushed 3 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "docs: center README on the npm installer" · _19 hours ago_
+- 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _19 hours ago_
+- 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _20 hours ago_
+- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: ship native host integrations for OpenCode V2, Pi, and OMP" · _1 day ago_
+- 🚀 Released [v0.10.0](https://github.com/itokun99/miwarang/releases/tag/v0.10.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🚀 Released [v0.9.3](https://github.com/itokun99/miwarang/releases/tag/v0.9.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🚀 Released [v0.9.2](https://github.com/itokun99/miwarang/releases/tag/v0.9.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🚀 Released [v0.9.1](https://github.com/itokun99/miwarang/releases/tag/v0.9.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🚀 Released [v0.9.0](https://github.com/itokun99/miwarang/releases/tag/v0.9.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 🚀 Released [v0.8.0](https://github.com/itokun99/miwarang/releases/tag/v0.8.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
