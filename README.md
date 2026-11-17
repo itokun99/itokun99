@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🚀 Released [v0.9.2](https://github.com/itokun99/miwarang/releases/tag/v0.9.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _4 minutes ago_
-- 🚀 Released [v0.9.1](https://github.com/itokun99/miwarang/releases/tag/v0.9.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 hours ago_
-- 🚀 Released [v0.9.0](https://github.com/itokun99/miwarang/releases/tag/v0.9.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 hours ago_
-- 🚀 Released [v0.8.0](https://github.com/itokun99/miwarang/releases/tag/v0.8.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 hours ago_
-- 📝 Pushed 1 commit to [itokun99/kuliahan](https://github.com/itokun99/kuliahan) (`main`) — "chore(tugas): add tugas 7 algo" · _1 day ago_
-- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: add a koma sdk backend" · _5 days ago_
-- 🚀 Released [v0.7.0](https://github.com/itokun99/miwarang/releases/tag/v0.7.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
-- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump pbkdf2 from 3.0.17 to 3.1.7" · _11 days ago_
-- 📝 Pushed 1 commit to [itokun99/miwarang-skill](https://github.com/itokun99/miwarang-skill) (`main`) — "docs: align delegation skill with harness routing" · _13 days ago_
-- 📝 Pushed 2 commits to [itokun99/codepelajar](https://github.com/itokun99/codepelajar) (`master`) — "Bump brace-expansion from 1.1.18 to 1.1.21" · _11 days ago_
+- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "docs: rename project to Miwarang Delegate and document MCP" · _8 hours ago_
+- 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 hours ago_
+- 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 hours ago_
+- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: ship native host integrations for OpenCode V2, Pi, and OMP" · _7 hours ago_
+- 🚀 Released [v0.10.0](https://github.com/itokun99/miwarang/releases/tag/v0.10.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 hours ago_
+- 🚀 Released [v0.9.3](https://github.com/itokun99/miwarang/releases/tag/v0.9.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 hours ago_
+- 🚀 Released [v0.9.2](https://github.com/itokun99/miwarang/releases/tag/v0.9.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _8 hours ago_
+- 🚀 Released [v0.9.1](https://github.com/itokun99/miwarang/releases/tag/v0.9.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _10 hours ago_
+- 🚀 Released [v0.9.0](https://github.com/itokun99/miwarang/releases/tag/v0.9.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _13 hours ago_
+- 🚀 Released [v0.8.0](https://github.com/itokun99/miwarang/releases/tag/v0.8.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _13 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 10 commits · 🚀 5 releases
+1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 15 commits · 🚀 9 releases
 <!--END_SECTION:weekly-->
 
 ## Projects
@@ -44,6 +44,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
+| [**miwarang**](https://github.com/itokun99/miwarang) ⭐ 2 | Unified prompt-driven delegation tool: hand tasks to OpenCode CLI, Command Code, Koma, or any CLI a… |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) ⭐ 2 | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
