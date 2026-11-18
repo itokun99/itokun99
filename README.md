@@ -15,7 +15,7 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 3 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "docs: center README on the npm installer" · _1 day ago_
+- 📝 Pushed 4 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: close four hardening gaps in delegation backends" · _1 day ago_
 - 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: ship native host integrations for OpenCode V2, Pi, and OMP" · _1 day ago_
