@@ -22,9 +22,9 @@ _Last 10 public events — refreshed automatically._
 - 🚀 Released [v0.10.0](https://github.com/itokun99/miwarang/releases/tag/v0.10.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 🚀 Released [v0.9.3](https://github.com/itokun99/miwarang/releases/tag/v0.9.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 🚀 Released [v0.9.2](https://github.com/itokun99/miwarang/releases/tag/v0.9.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
-- 🚀 Released [v0.9.1](https://github.com/itokun99/miwarang/releases/tag/v0.9.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
-- 🚀 Released [v0.9.0](https://github.com/itokun99/miwarang/releases/tag/v0.9.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
-- 🚀 Released [v0.8.0](https://github.com/itokun99/miwarang/releases/tag/v0.8.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
+- 🚀 Released [v0.9.1](https://github.com/itokun99/miwarang/releases/tag/v0.9.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
+- 🚀 Released [v0.9.0](https://github.com/itokun99/miwarang/releases/tag/v0.9.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
+- 🚀 Released [v0.8.0](https://github.com/itokun99/miwarang/releases/tag/v0.8.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
