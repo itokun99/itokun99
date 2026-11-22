@@ -15,7 +15,9 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _44 minutes ago_
+- 📝 Pushed 3 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "docs: add clone instructions for renamed repository" · _1 day ago_
+- 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _1 day ago_
+- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _7 hours ago_
 - 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
 - 📝 Pushed 6 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore: ignore installed plugin node_modules" · _5 days ago_
@@ -23,8 +25,6 @@ _Last 10 public events — refreshed automatically._
 - 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
 - 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "feat: ship native host integrations for OpenCode V2, Pi, and OMP" · _5 days ago_
 - 🚀 Released [v0.10.0](https://github.com/itokun99/miwarang/releases/tag/v0.10.0) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
-- 🚀 Released [v0.9.3](https://github.com/itokun99/miwarang/releases/tag/v0.9.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
-- 🚀 Released [v0.9.2](https://github.com/itokun99/miwarang/releases/tag/v0.9.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
