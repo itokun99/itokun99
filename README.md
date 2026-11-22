@@ -15,11 +15,11 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 3 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "docs: add clone instructions for renamed repository" · _1 day ago_
+- 📝 Pushed 5 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "fix(handler): keep chat context at prompt suffix" · _2 days ago_
 - 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _1 day ago_
-- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _7 hours ago_
-- 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
-- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _1 day ago_
+- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _15 hours ago_
+- 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
+- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
 - 📝 Pushed 6 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore: ignore installed plugin node_modules" · _5 days ago_
 - 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
 - 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _5 days ago_
@@ -32,8 +32,9 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 16 commits · 🚀 10 releases
-2. [**prabu**](https://github.com/itokun99/prabu) — 📝 6 commits
+1. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 29 commits
+2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 16 commits · 🚀 10 releases
+3. [**prabu**](https://github.com/itokun99/prabu) — 📝 6 commits
 <!--END_SECTION:weekly-->
 
 ## Projects
@@ -45,7 +46,8 @@ _Refreshed automatically — open-source repositories active in the last year (p
 
 | Repository | Description |
 | --- | --- |
-| [**miwarang**](https://github.com/itokun99/miwarang) ⭐ 3 | Unified prompt-driven delegation tool: hand tasks to OpenCode CLI, Command Code, Koma, or any CLI a… |
+| [**cmd-slim**](https://github.com/itokun99/cmd-slim) | Lean, fine tuned Command Code multi agent suite · Mix any models · Auto delegate tasks · [ohmyopencodeslim.com](https://ohmyopencodeslim.com/) |
+| [**miwarang**](https://github.com/itokun99/miwarang) ⭐ 4 | Unified prompt-driven delegation tool: hand tasks to OpenCode CLI, Command Code, Koma, or any CLI a… |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) ⭐ 2 | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
