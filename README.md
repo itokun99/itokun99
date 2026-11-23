@@ -20,7 +20,7 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _2 days ago_
 - 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _1 day ago_
 - 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
-- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _2 days ago_
+- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _3 days ago_
 - 📝 Pushed 6 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore: ignore installed plugin node_modules" · _6 days ago_
 - 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 🚀 Released [v0.10.1](https://github.com/itokun99/miwarang/releases/tag/v0.10.1) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
@@ -32,8 +32,8 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 26 commits
-2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 16 commits · 🚀 10 releases
+1. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 21 commits
+2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 10 commits · 🚀 8 releases
 3. [**prabu**](https://github.com/itokun99/prabu) — 📝 6 commits
 <!--END_SECTION:weekly-->
 
