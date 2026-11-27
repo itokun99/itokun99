@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🚀 Released [v1.0.0](https://github.com/itokun99/prabu/releases/tag/v1.0.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _21 minutes ago_
+- 🔀 Opened PR [#4](https://github.com/itokun99/prabu/pull/4) "feat: preserve OMO session continuity in delegation" in [itokun99/prabu](https://github.com/itokun99/prabu) · _1 hour ago_
+- 🐛 Opened issue [#3](https://github.com/itokun99/prabu/issues/3) "Restore OMO session continuity (drop --no-session from dele…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
+- 🐛 Closed issue [#1](https://github.com/itokun99/prabu/issues/1) "Telegram Prabu mengirim raw XML tool_call / internal tool-c…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
+- 🔀 Merged PR [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
+- 💬 Commented on [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
+- 🔀 Opened PR [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
+- 🐛 Opened issue [#1](https://github.com/itokun99/prabu/issues/1) "Telegram Prabu mengirim raw XML tool_call / internal tool-c…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
+- 🚀 Released [v1.1.0](https://github.com/itokun99/prabu/releases/tag/v1.1.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _6 hours ago_
+- 🚀 Released [v1.0.0](https://github.com/itokun99/prabu/releases/tag/v1.0.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _8 hours ago_
 - 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(npm): normalize bin path" · _6 days ago_
-- 📝 Pushed 10000 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`dev`) — "chore(bundles): regenerate for the GPT ultrawork directive; omo.js bu…" · _5 days ago_
-- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.10.4" · _7 days ago_
-- 📝 Pushed 5 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "fix(handler): keep chat context at prompt suffix" · _7 days ago_
-- 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _6 days ago_
-- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _5 days ago_
-- 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
-- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
-- 📝 Pushed 6 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore: ignore installed plugin node_modules" · _10 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,9 +32,8 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**prabu**](https://github.com/itokun99/prabu) — 📝 4 commits · 🚀 1 release
-2. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 1 commit
-3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit
+1. [**prabu**](https://github.com/itokun99/prabu) — 📝 7 commits · 🔀 2 PRs · 🐛 2 issues · 🚀 2 releases
+2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
@@ -49,6 +48,7 @@ _Refreshed automatically — open-source repositories active in the last year (p
 | [**cmd-slim**](https://github.com/itokun99/cmd-slim) | Lean, fine tuned Command Code multi agent suite · Mix any models · Auto delegate tasks · [ohmyopencodeslim.com](https://ohmyopencodeslim.com/) |
 | [**miwarang**](https://github.com/itokun99/miwarang) ⭐ 4 | Unified prompt-driven delegation tool: hand tasks to OpenCode CLI, Command Code, Koma, or any CLI a… |
 | [**codepelajar-react**](https://github.com/itokun99/codepelajar-react) ⭐ 10 | A Blogger Template with React JS (Open Source). · [codepelajar.blogspot.com](https://codepelajar.blogspot.com/) |
+| [**gowebp**](https://github.com/itokun99/gowebp) | Go library + CLI to convert images to/from WebP (wraps libwebp). brew install itokun99/gowebp/gowebp |
 | [**lazyomo**](https://github.com/itokun99/lazyomo) ⭐ 2 | Supported multiple config for Opencode + Oh My Openagent |
 | [**kiwari**](https://github.com/itokun99/kiwari) | Render your latest public GitHub activity into a README - commits, PRs, issues, releases; list or t… |
 | [**lalajoanime**](https://github.com/itokun99/lalajoanime) | Anime streaming & download portal — Vite + React + TypeScript + Tailwind + shadcn in a neoterminal … |
