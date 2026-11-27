@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(npm): normalize bin path" · _5 days ago_
-- 📝 Pushed 10000 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`dev`) — "chore(bundles): regenerate for the GPT ultrawork directive; omo.js bu…" · _4 days ago_
-- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.10.4" · _6 days ago_
-- 📝 Pushed 5 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "fix(handler): keep chat context at prompt suffix" · _6 days ago_
+- 🚀 Released [v1.0.0](https://github.com/itokun99/prabu/releases/tag/v1.0.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _21 minutes ago_
+- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(npm): normalize bin path" · _6 days ago_
+- 📝 Pushed 10000 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`dev`) — "chore(bundles): regenerate for the GPT ultrawork directive; omo.js bu…" · _5 days ago_
+- 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.10.4" · _7 days ago_
+- 📝 Pushed 5 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "fix(handler): keep chat context at prompt suffix" · _7 days ago_
 - 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _6 days ago_
 - 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _5 days ago_
-- 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
-- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
+- 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
+- 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _7 days ago_
 - 📝 Pushed 6 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore: ignore installed plugin node_modules" · _10 days ago_
-- 🚀 Released [v0.10.2](https://github.com/itokun99/miwarang/releases/tag/v0.10.2) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _10 days ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,9 +32,9 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**prabu**](https://github.com/itokun99/prabu) — 📝 6 commits
-2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 3 commits · 🚀 2 releases
-3. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 1 commit
+1. [**prabu**](https://github.com/itokun99/prabu) — 📝 4 commits · 🚀 1 release
+2. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 1 commit
+3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
