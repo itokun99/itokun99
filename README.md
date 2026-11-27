@@ -19,8 +19,8 @@ _Last 10 public events — refreshed automatically._
 - 📝 Pushed 10000 commits to [itokun99/oh-my-openagent](https://github.com/itokun99/oh-my-openagent) (`dev`) — "chore(bundles): regenerate for the GPT ultrawork directive; omo.js bu…" · _4 days ago_
 - 📝 Pushed 2 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(release): v0.10.4" · _6 days ago_
 - 📝 Pushed 5 commits to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) — "fix(handler): keep chat context at prompt suffix" · _6 days ago_
-- 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _5 days ago_
-- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _4 days ago_
+- 📝 Pushed 1 commit to [itokun99/cmd-slim](https://github.com/itokun99/cmd-slim) (`master`) — "feat(commandcode): add optional Command Code mod" · _6 days ago_
+- 📝 Pushed to [itokun99/prabu](https://github.com/itokun99/prabu) (`main`) · _5 days ago_
 - 🚀 Released [v0.10.4](https://github.com/itokun99/miwarang/releases/tag/v0.10.4) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 🚀 Released [v0.10.3](https://github.com/itokun99/miwarang/releases/tag/v0.10.3) in [itokun99/miwarang](https://github.com/itokun99/miwarang) · _6 days ago_
 - 📝 Pushed 6 commits to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore: ignore installed plugin node_modules" · _10 days ago_
@@ -32,9 +32,9 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 6 commits
-2. [**prabu**](https://github.com/itokun99/prabu) — 📝 6 commits
-3. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 3 commits · 🚀 2 releases
+1. [**prabu**](https://github.com/itokun99/prabu) — 📝 6 commits
+2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 3 commits · 🚀 2 releases
+3. [**cmd-slim**](https://github.com/itokun99/cmd-slim) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
 ## Projects
