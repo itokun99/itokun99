@@ -15,16 +15,16 @@ I believe the future of software engineering is not about writing more code — 
 _Last 10 public events — refreshed automatically._
 
 <!--START_SECTION:activity-->
-- 🔀 Opened PR [#4](https://github.com/itokun99/prabu/pull/4) "feat: preserve OMO session continuity in delegation" in [itokun99/prabu](https://github.com/itokun99/prabu) · _1 hour ago_
-- 🐛 Opened issue [#3](https://github.com/itokun99/prabu/issues/3) "Restore OMO session continuity (drop --no-session from dele…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
-- 🐛 Closed issue [#1](https://github.com/itokun99/prabu/issues/1) "Telegram Prabu mengirim raw XML tool_call / internal tool-c…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
-- 🔀 Merged PR [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
-- 💬 Commented on [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
-- 🔀 Opened PR [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
-- 🐛 Opened issue [#1](https://github.com/itokun99/prabu/issues/1) "Telegram Prabu mengirim raw XML tool_call / internal tool-c…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _2 hours ago_
-- 🚀 Released [v1.1.0](https://github.com/itokun99/prabu/releases/tag/v1.1.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _6 hours ago_
-- 🚀 Released [v1.0.0](https://github.com/itokun99/prabu/releases/tag/v1.0.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _8 hours ago_
-- 📝 Pushed 1 commit to [itokun99/miwarang](https://github.com/itokun99/miwarang) (`main`) — "chore(npm): normalize bin path" · _6 days ago_
+- 🚀 Released [v1.2.0](https://github.com/itokun99/prabu/releases/tag/v1.2.0) in [itokun99/prabu](https://github.com/itokun99/prabu) · _3 hours ago_
+- 🐛 Opened issue [#5](https://github.com/itokun99/prabu/issues/5) "Add bounded retention for Telegram OMO sessions" in [itokun99/prabu](https://github.com/itokun99/prabu) · _3 hours ago_
+- 🐛 Closed issue [#3](https://github.com/itokun99/prabu/issues/3) "Restore OMO session continuity (drop --no-session from dele…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _4 hours ago_
+- 🔀 Merged PR [#4](https://github.com/itokun99/prabu/pull/4) "feat: preserve OMO session continuity in delegation" in [itokun99/prabu](https://github.com/itokun99/prabu) · _4 hours ago_
+- 🔀 Opened PR [#4](https://github.com/itokun99/prabu/pull/4) "feat: preserve OMO session continuity in delegation" in [itokun99/prabu](https://github.com/itokun99/prabu) · _7 hours ago_
+- 🐛 Opened issue [#3](https://github.com/itokun99/prabu/issues/3) "Restore OMO session continuity (drop --no-session from dele…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _7 hours ago_
+- 🐛 Closed issue [#1](https://github.com/itokun99/prabu/issues/1) "Telegram Prabu mengirim raw XML tool_call / internal tool-c…" in [itokun99/prabu](https://github.com/itokun99/prabu) · _8 hours ago_
+- 🔀 Merged PR [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _8 hours ago_
+- 💬 Commented on [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _8 hours ago_
+- 🔀 Opened PR [#2](https://github.com/itokun99/prabu/pull/2) "docs: harden SOUL.md to force native tool calls" in [itokun99/prabu](https://github.com/itokun99/prabu) · _8 hours ago_
 <!--END_SECTION:activity-->
 
 ## Top Projects This Week
@@ -32,7 +32,7 @@ _Last 10 public events — refreshed automatically._
 _Most active public repositories in the last 7 days — refreshed automatically._
 
 <!--START_SECTION:weekly-->
-1. [**prabu**](https://github.com/itokun99/prabu) — 📝 7 commits · 🔀 2 PRs · 🐛 2 issues · 🚀 2 releases
+1. [**prabu**](https://github.com/itokun99/prabu) — 📝 9 commits · 🔀 2 PRs · 🐛 3 issues · 🚀 3 releases
 2. [**miwarang**](https://github.com/itokun99/miwarang) — 📝 1 commit
 <!--END_SECTION:weekly-->
 
